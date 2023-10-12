@@ -534,7 +534,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1495221</guid>
 				<pubDate>Fri, 25 Feb 2022 00:35:17 -0000</pubDate>
 
-				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:seeders>1</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>35</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e92d0037ff36746d70e3ff47eaa1491a7fa65bd6</link>
@@ -671,7 +671,7 @@
 				<pubDate>Tue, 21 Dec 2021 14:19:09 -0000</pubDate>
 
 				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>51</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a0caa53101a356cdc0a08d82b79fd53b87922518</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -1028,7 +1028,7 @@
 				<pubDate>Sat, 23 Oct 2021 12:19:09 -0000</pubDate>
 
 				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>58</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:081a497e8ffc8df9ab80b41eb200825ace573eac</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
