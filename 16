@@ -3,12 +3,29 @@
 		<title>Nyaa - &#34;NanakoRaws&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;NanakoRaws&#34;</description>
 		<item>
+			<title>[NanakoRaws] TV Tokyo Music Festival 2023 (TX 1920x1080 x265 AAC).mkv</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1743547</guid>
+				<pubDate>Thu, 16 Nov 2023 13:55:11 -0000</pubDate>
+
+				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:leechers>17</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:3c166c08b84f7462e2aa6bf2ce7d47093946c672</link>
+			<nyaa:categoryId>4_4</nyaa:categoryId>
+			<nyaa:category>Live Action - Raw</nyaa:category>
+			<nyaa:size>17.8 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1743547">#1743547 | [NanakoRaws] TV Tokyo Music Festival 2023 (TX 1920x1080 x265 AAC).mkv</a> | 17.8 GiB | Live Action - Raw | 3c166c08b84f7462e2aa6bf2ce7d47093946c672]]></description>
+		</item>
+		<item>
 			<title>[NanakoRaws] Helck - 19 (NTV 1920x1080 HEVC 10bit AAC).mp4</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1743134</guid>
 				<pubDate>Wed, 15 Nov 2023 08:27:08 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>42</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:50adc9bab101a61d3b20b4240bbedf7e4c8d19ae</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -24,9 +41,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1743133</guid>
 				<pubDate>Wed, 15 Nov 2023 08:25:35 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:seeders>11</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>61</nyaa:downloads>
+				<nyaa:downloads>62</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:79d5ba1d4f9c0f28d8523f2460fcce32f2171f10</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
 			<nyaa:category>Anime - Raw</nyaa:category>
@@ -41,7 +58,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1743132</guid>
 				<pubDate>Wed, 15 Nov 2023 08:24:33 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>55</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:fefc5afa5b29840efac61fbd874e6672ef5a72f3</link>
@@ -75,7 +92,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1743059</guid>
 				<pubDate>Tue, 14 Nov 2023 23:45:31 -0000</pubDate>
 
-				<nyaa:seeders>31</nyaa:seeders>
+				<nyaa:seeders>34</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>230</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:05a17272335446de9b9a83775b537b5fbdca1dc4</link>
@@ -109,7 +126,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1743057</guid>
 				<pubDate>Tue, 14 Nov 2023 23:43:28 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>28</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f140662472965b323ad9e10f0379c0ca98a73251</link>
@@ -126,9 +143,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742750</guid>
 				<pubDate>Mon, 13 Nov 2023 21:46:15 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>59</nyaa:downloads>
+				<nyaa:downloads>60</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:08b009eeeef96f482c89d5720d9e93e62e2a26ca</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
 			<nyaa:category>Anime - Raw</nyaa:category>
@@ -143,7 +160,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742749</guid>
 				<pubDate>Mon, 13 Nov 2023 21:44:55 -0000</pubDate>
 
-				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:seeders>8</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>42</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:144f17adcdd6edfe59c3e5023017187fd6729cf4</link>
@@ -177,7 +194,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742574</guid>
 				<pubDate>Mon, 13 Nov 2023 15:48:56 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>18</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3931d3307446bcd282cd4fdceebafcc6785ae51f</link>
@@ -211,7 +228,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742572</guid>
 				<pubDate>Mon, 13 Nov 2023 15:48:17 -0000</pubDate>
 
-				<nyaa:seeders>22</nyaa:seeders>
+				<nyaa:seeders>23</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>146</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f12ba8e4d8b5aa4035be61ee5c3c8b85898aab90</link>
@@ -245,7 +262,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742570</guid>
 				<pubDate>Mon, 13 Nov 2023 15:46:47 -0000</pubDate>
 
-				<nyaa:seeders>21</nyaa:seeders>
+				<nyaa:seeders>20</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>145</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4fe084b5983778c224d7fbba989d803a18725765</link>
@@ -262,7 +279,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742292</guid>
 				<pubDate>Mon, 13 Nov 2023 00:20:56 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>127</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5b7a44f7ebd027c34451b7d71f26f2eb4521b2e1</link>
@@ -296,7 +313,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742290</guid>
 				<pubDate>Mon, 13 Nov 2023 00:18:02 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>42</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a1ea58d37debe1ec5bac276e07bcb63c4d939902</link>
@@ -330,7 +347,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1742280</guid>
 				<pubDate>Sun, 12 Nov 2023 23:43:55 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>39</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:485ae2499e2490a15fa57b508941ab46860ea064</link>
@@ -347,7 +364,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1741852</guid>
 				<pubDate>Sun, 12 Nov 2023 02:44:44 -0000</pubDate>
 
-				<nyaa:seeders>131</nyaa:seeders>
+				<nyaa:seeders>128</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>663</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:48b42812842dff5278dd4d016f2bc1131f1bd578</link>
@@ -381,9 +398,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1741803</guid>
 				<pubDate>Sun, 12 Nov 2023 00:37:11 -0000</pubDate>
 
-				<nyaa:seeders>387</nyaa:seeders>
+				<nyaa:seeders>381</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>2219</nyaa:downloads>
+				<nyaa:downloads>2220</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4f9fa6b7dfcb487a51067dcf9903ce62c85ffcde</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -398,7 +415,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1741800</guid>
 				<pubDate>Sun, 12 Nov 2023 00:29:59 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>54</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b96aef70210c98c9cd7ff3b2e358759602220e91</link>
@@ -415,7 +432,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1741545</guid>
 				<pubDate>Sat, 11 Nov 2023 14:38:55 -0000</pubDate>
 
-				<nyaa:seeders>727</nyaa:seeders>
+				<nyaa:seeders>722</nyaa:seeders>
 				<nyaa:leechers>4</nyaa:leechers>
 				<nyaa:downloads>3444</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0dceb87486d25ca671c833c1c115f3a16c856519</link>
@@ -434,7 +451,7 @@
 
 				<nyaa:seeders>7</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>174</nyaa:downloads>
+				<nyaa:downloads>175</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:2c4d1c235c31bcae676063a3d4288b5692b8c748</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
 			<nyaa:category>Anime - Raw</nyaa:category>
@@ -551,7 +568,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1741011</guid>
 				<pubDate>Fri, 10 Nov 2023 15:28:50 -0000</pubDate>
 
-				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:seeders>4</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>74</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:474045f48f997a3107668178027b8a2a903f7fba</link>
@@ -585,7 +602,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1740904</guid>
 				<pubDate>Fri, 10 Nov 2023 11:22:58 -0000</pubDate>
 
-				<nyaa:seeders>209</nyaa:seeders>
+				<nyaa:seeders>203</nyaa:seeders>
 				<nyaa:leechers>4</nyaa:leechers>
 				<nyaa:downloads>1136</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:274bfd6ee507588a5db8fa564be78421430df054</link>
@@ -603,7 +620,7 @@
 				<pubDate>Fri, 10 Nov 2023 03:59:35 -0000</pubDate>
 
 				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>64</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6c33fa2b009c506c022b5d5ab93f5f7f449bc7c9</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -636,7 +653,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1740815</guid>
 				<pubDate>Thu, 09 Nov 2023 23:36:38 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>98</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:195b2b77771c4d663d2841a501da527d4d626fe0</link>
@@ -653,7 +670,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1740814</guid>
 				<pubDate>Thu, 09 Nov 2023 23:36:28 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:seeders>1</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>26</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:890dc42911edb5a9f8bf18e44560cb993f3d46d0</link>
@@ -670,8 +687,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1740605</guid>
 				<pubDate>Thu, 09 Nov 2023 15:33:10 -0000</pubDate>
 
-				<nyaa:seeders>583</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>588</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>3178</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8da6717ae55993f395804fa051cc52ff0a199f11</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -687,7 +704,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1740361</guid>
 				<pubDate>Thu, 09 Nov 2023 00:00:12 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:seeders>8</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>213</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a10a0d8402c5160718e2c3ef61a874b93e31c304</link>
@@ -806,8 +823,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1739273</guid>
 				<pubDate>Mon, 06 Nov 2023 05:26:28 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>124</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:67cfef8fd79a2588f2c698196bc95c77c0d6464e</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -840,7 +857,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1739264</guid>
 				<pubDate>Mon, 06 Nov 2023 05:21:58 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>36</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e24e19922b4fad850a764a4f1413f02651ccc30e</link>
@@ -857,7 +874,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1739165</guid>
 				<pubDate>Sun, 05 Nov 2023 19:56:22 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>75</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:81404d26ce94acfa0653969c8c8786b6e3d96eb1</link>
@@ -908,7 +925,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1738795</guid>
 				<pubDate>Sun, 05 Nov 2023 03:00:43 -0000</pubDate>
 
-				<nyaa:seeders>113</nyaa:seeders>
+				<nyaa:seeders>110</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>746</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e647f4d1a0f1e069d1a64a954028780bb4ae07a5</link>
@@ -942,7 +959,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1738762</guid>
 				<pubDate>Sun, 05 Nov 2023 01:46:43 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>87</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:22a1dac86592c5ce3f76a15fbbfc2874e6bee130</link>
@@ -959,7 +976,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1738759</guid>
 				<pubDate>Sun, 05 Nov 2023 01:44:22 -0000</pubDate>
 
-				<nyaa:seeders>12</nyaa:seeders>
+				<nyaa:seeders>13</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>277</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c53c662d17627bf13ea6d06df4353589e4e951e9</link>
@@ -1010,8 +1027,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1738716</guid>
 				<pubDate>Sat, 04 Nov 2023 23:24:41 -0000</pubDate>
 
-				<nyaa:seeders>65</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>64</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1140</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c6b535881a9e1ebf359faae04da49bade6c477b9</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1027,7 +1044,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1738451</guid>
 				<pubDate>Sat, 04 Nov 2023 14:42:12 -0000</pubDate>
 
-				<nyaa:seeders>611</nyaa:seeders>
+				<nyaa:seeders>603</nyaa:seeders>
 				<nyaa:leechers>5</nyaa:leechers>
 				<nyaa:downloads>3073</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3572c9805083d06e1749eeafc5bedb1dfd7b35cb</link>
@@ -1112,7 +1129,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1737728</guid>
 				<pubDate>Fri, 03 Nov 2023 11:22:20 -0000</pubDate>
 
-				<nyaa:seeders>182</nyaa:seeders>
+				<nyaa:seeders>188</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>1511</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0af827012d79eb040ce5a7d20a74d68896b8dda4</link>
@@ -1163,7 +1180,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1737682</guid>
 				<pubDate>Fri, 03 Nov 2023 05:59:40 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:seeders>1</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>54</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:05e08f0c73b27916dd5ea7641dbe690b43cd48be</link>
@@ -1180,8 +1197,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1737437</guid>
 				<pubDate>Thu, 02 Nov 2023 15:50:26 -0000</pubDate>
 
-				<nyaa:seeders>41</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>40</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>681</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a5092a3e5cf057bec019914e5d0ed1f538d5b2f6</link>
 			<nyaa:categoryId>1_4</nyaa:categoryId>
@@ -1231,7 +1248,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1736735</guid>
 				<pubDate>Tue, 31 Oct 2023 15:47:07 -0000</pubDate>
 
-				<nyaa:seeders>147</nyaa:seeders>
+				<nyaa:seeders>148</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1429</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:89d5bfe6d429d1bdf7b4521a255e1be935988e47</link>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1736523">#1736523 | [NanakoRaws] Gekijouban Boku ga Aishita Subete no Kimi e (2022) (WOWOW 1920x1080 HEVC 10bit AAC).mkv (include JPsub+5.1 surround)</a> | 976.9 MiB | Anime - Raw | b247f6d31be09f93c9a9b197876a1641a6fc314e]]></description>
-		</item>
-		<item>
-			<title>[NanakoRaws] Gekijouban Kimi o Aishita Hitori no Boku e (2022) (WOWOW 1920x1080 HEVC 10bit AAC).mkv (include JPsub+5.1 surround)</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1736522</guid>
-				<pubDate>Mon, 30 Oct 2023 23:21:42 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>199</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:82ff98d7a7ed0240e5403198c2f4b87fce809ebc</link>
-			<nyaa:categoryId>1_4</nyaa:categoryId>
-			<nyaa:category>Anime - Raw</nyaa:category>
-			<nyaa:size>977.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1736522">#1736522 | [NanakoRaws] Gekijouban Kimi o Aishita Hitori no Boku e (2022) (WOWOW 1920x1080 HEVC 10bit AAC).mkv (include JPsub+5.1 surround)</a> | 977.3 MiB | Anime - Raw | 82ff98d7a7ed0240e5403198c2f4b87fce809ebc]]></description>
 		</item>
 	</channel>
 </rss>
