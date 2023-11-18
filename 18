@@ -3,6 +3,23 @@
 		<title>Nyaa - Home - Torrent File RSS</title>
 		<description>RSS Feed for Home</description>
 		<item>
+			<title>[Valenciano] Overtake! - 07 [1080p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1744509</guid>
+				<pubDate>Sat, 18 Nov 2023 14:40:36 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:6d4078a4cb1a5c7f546eeae2bcd13eef10948049</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>148.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1744509">#1744509 | [Valenciano] Overtake! - 07 [1080p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</a> | 148.1 MiB | Anime - English-translated | 6D4078A4CB1A5C7F546EEAE2BCD13EEF10948049]]></description>
+		</item>
+		<item>
 			<title>[Valenciano] MF Ghost - 07 [1080p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1744446</guid>
 				<pubDate>Sat, 18 Nov 2023 12:11:27 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>Yes</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1729188">#1729188 | [Valenciano] Spy x Family Season 2 - 02 [720p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</a> | 161.9 MiB | Anime - English-translated | 1FC4133A76480C82B37117C9B9934735B9B69797]]></description>
-		</item>
-		<item>
-			<title>[Valenciano] Arknights - Perish in Frost - 02 [1080p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1728702</guid>
-				<pubDate>Fri, 13 Oct 2023 18:56:50 -0000</pubDate>
-
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>244</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:531b97d41da16b55d5fe17429bb5611bbb18c49b</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>150.0 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>Yes</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1728702">#1728702 | [Valenciano] Arknights - Perish in Frost - 02 [1080p][AV1 10bit][AAC][Multi-Sub] (Weekly).mkv</a> | 150.0 MiB | Anime - English-translated | 531B97D41DA16B55D5FE17429BB5611BBB18C49B]]></description>
 		</item>
 	</channel>
 </rss>
