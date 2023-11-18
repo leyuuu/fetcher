@@ -3,6 +3,23 @@
 		<title>Nyaa - &#34;NanakoRaws&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;NanakoRaws&#34;</description>
 		<item>
+			<title>[NanakoRaws] Otona Precure - 07 (NHKE 1920x1080 x265 AAC).mkv (include JPsub)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1744469</guid>
+				<pubDate>Sat, 18 Nov 2023 12:56:23 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c9fcf1bd3121924fe5c18c3b56efff5dfae1d966</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>496.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1744469">#1744469 | [NanakoRaws] Otona Precure - 07 (NHKE 1920x1080 x265 AAC).mkv (include JPsub)</a> | 496.9 MiB | Anime - English-translated | c9fcf1bd3121924fe5c18c3b56efff5dfae1d966]]></description>
+		</item>
+		<item>
 			<title>[NanakoRaws] Spy x Family S2 - 06v3 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1744323</guid>
 				<pubDate>Sat, 18 Nov 2023 02:30:55 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1738451">#1738451 | [NanakoRaws] Spy x Family S2 - 05 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</a> | 711.6 MiB | Anime - Raw | 3572c9805083d06e1749eeafc5bedb1dfd7b35cb]]></description>
-		</item>
-		<item>
-			<title>[NanakoRaws] Otona Precure - 05 (NHKE 1920x1080 x265 AAC).mkv (include JPsub)</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1738345</guid>
-				<pubDate>Sat, 04 Nov 2023 10:32:06 -0000</pubDate>
-
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>224</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:50bc243f8202cdf27253c5a4fae7c8a8b714d567</link>
-			<nyaa:categoryId>1_4</nyaa:categoryId>
-			<nyaa:category>Anime - Raw</nyaa:category>
-			<nyaa:size>683.4 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1738345">#1738345 | [NanakoRaws] Otona Precure - 05 (NHKE 1920x1080 x265 AAC).mkv (include JPsub)</a> | 683.4 MiB | Anime - Raw | 50bc243f8202cdf27253c5a4fae7c8a8b714d567]]></description>
 		</item>
 	</channel>
 </rss>
