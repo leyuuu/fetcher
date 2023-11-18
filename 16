@@ -3,6 +3,23 @@
 		<title>Nyaa - &#34;NanakoRaws&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;NanakoRaws&#34;</description>
 		<item>
+			<title>[NanakoRaws] Spy x Family S2 - 07 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1744516</guid>
+				<pubDate>Sat, 18 Nov 2023 14:51:43 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:2dc38fbf107fad72226a237f6fc27c57c8eaccb6</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>712.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1744516">#1744516 | [NanakoRaws] Spy x Family S2 - 07 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</a> | 712.1 MiB | Anime - English-translated | 2dc38fbf107fad72226a237f6fc27c57c8eaccb6]]></description>
+		</item>
+		<item>
 			<title>[NanakoRaws] Otona Precure - 07 (NHKE 1920x1080 x265 AAC).mkv (include JPsub)</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1744469</guid>
 				<pubDate>Sat, 18 Nov 2023 12:56:23 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1738716">#1738716 | [NanakoRaws] Shingeki no Kyojin The Final Season Part 3 Part 2 END (NHKG 1920x1080 HEVC 10bit AAC).mkv (include JPsub)</a> | 1.4 GiB | Anime - English-translated | c6b535881a9e1ebf359faae04da49bade6c477b9]]></description>
-		</item>
-		<item>
-			<title>[NanakoRaws] Spy x Family S2 - 05 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1738451</guid>
-				<pubDate>Sat, 04 Nov 2023 14:42:12 -0000</pubDate>
-
-				<nyaa:seeders>589</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>3113</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:3572c9805083d06e1749eeafc5bedb1dfd7b35cb</link>
-			<nyaa:categoryId>1_4</nyaa:categoryId>
-			<nyaa:category>Anime - Raw</nyaa:category>
-			<nyaa:size>711.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1738451">#1738451 | [NanakoRaws] Spy x Family S2 - 05 (WEB-DL 1920x1080 x264 AAC).mkv (include JPsub)</a> | 711.6 MiB | Anime - Raw | 3572c9805083d06e1749eeafc5bedb1dfd7b35cb]]></description>
 		</item>
 	</channel>
 </rss>
