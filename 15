@@ -3,6 +3,23 @@
 		<title>Nyaa - &#34;Erai-raws 1080&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;Erai-raws 1080&#34;</description>
 		<item>
+			<title>[Erai-raws] Hikikomari Kyuuketsuki no Monmon - 07 [1080p] [ENG]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1744488</guid>
+				<pubDate>Sat, 18 Nov 2023 14:00:23 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a3e941c206e9dce69881a3bf39139775b830beb6</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>500.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>Yes</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1744488">#1744488 | [Erai-raws] Hikikomari Kyuuketsuki no Monmon - 07 [1080p] [ENG]</a> | 500.9 MiB | Anime - English-translated | a3e941c206e9dce69881a3bf39139775b830beb6]]></description>
+		</item>
+		<item>
 			<title>[Erai-raws] Detective Conan - 1104 [1080p] [ENG]</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1744456</guid>
 				<pubDate>Sat, 18 Nov 2023 12:39:29 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>Yes</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1741023">#1741023 | [Erai-raws] Kimizero - 06 [1080p][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]</a> | 1.3 GiB | Anime - English-translated | df007ee6b696085ed46fb1984016bd500ee7cbc5]]></description>
-		</item>
-		<item>
-			<title>[Erai-raws] Goblin Slayer II - 06 [1080p][Multiple Subtitle] [ENG][POR-BR][SPA-LA][RUS]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1740988</guid>
-				<pubDate>Fri, 10 Nov 2023 14:36:59 -0000</pubDate>
-
-				<nyaa:seeders>213</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>4012</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:b06ff572c00007384d5b718cabc5cd26f773fb51</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>1.3 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>Yes</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1740988">#1740988 | [Erai-raws] Goblin Slayer II - 06 [1080p][Multiple Subtitle] [ENG][POR-BR][SPA-LA][RUS]</a> | 1.3 GiB | Anime - English-translated | b06ff572c00007384d5b718cabc5cd26f773fb51]]></description>
 		</item>
 	</channel>
 </rss>
