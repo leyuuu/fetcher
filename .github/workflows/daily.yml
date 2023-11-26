@@ -24,7 +24,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=Trix" -o 12 # Trix AV1 encode
           curl "https://nyaa.si/?page=rss&q=Judas" -o 13 # Judas
           curl "https://nyaa.si/?page=rss&u=AgPa1t" -o 14 # AgPa1t Audio book
-          curl "https://nyaa.si/?page=rss&q=New-raws" -o 15 New-raws
+          curl "https://nyaa.si/?page=rss&q=New-raws" -o 15 # New-raws
           curl "https://nyaa.si/?page=rss&q=NanakoRaws" -o 16 #NanakoRaws
           curl "https://nyaa.si/?page=rss&q=VARYG" -o 17 #VARYG
           curl "https://nyaa.si/?page=rss&u=Valenciano" -o 18 #Valenciano
