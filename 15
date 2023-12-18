@@ -3,6 +3,23 @@
 		<title>Nyaa - &#34;New-raws&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;New-raws&#34;</description>
 		<item>
+			<title>[New-raws] Kamonohashi Ron no Kindan Suiri - 12 [1080p] [AMZN].mkv</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1757210</guid>
+				<pubDate>Mon, 18 Dec 2023 14:05:42 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:bba39be65265e0341bcd93d8c8f756f263674cb0</link>
+			<nyaa:categoryId>1_4</nyaa:categoryId>
+			<nyaa:category>Anime - Raw</nyaa:category>
+			<nyaa:size>634.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1757210">#1757210 | [New-raws] Kamonohashi Ron no Kindan Suiri - 12 [1080p] [AMZN].mkv</a> | 634.9 MiB | Anime - Raw | bba39be65265e0341bcd93d8c8f756f263674cb0]]></description>
+		</item>
+		<item>
 			<title>[New-raws] Migi to Dali - 12 [1080p] [AMZN].mkv</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1757207</guid>
 				<pubDate>Mon, 18 Dec 2023 13:45:14 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1753541">#1753541 | [New-raws] Kusuriya no Hitorigoto - 10 [1080p] [AMZN].mkv</a> | 734.6 MiB | Anime - Raw | 9b8994414e7964b13b94b22514aaa13ef0b62a6d]]></description>
-		</item>
-		<item>
-			<title>[New-raws] Buta no Liver wa Kanetsu Shiro - 09 [1080p] [WEB].mkv</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1753538</guid>
-				<pubDate>Sat, 09 Dec 2023 17:07:25 -0000</pubDate>
-
-				<nyaa:seeders>11</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>167</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:8f3d78ff7fc01bc4a090b94dcc7bd0575c1d9e7d</link>
-			<nyaa:categoryId>1_4</nyaa:categoryId>
-			<nyaa:category>Anime - Raw</nyaa:category>
-			<nyaa:size>232.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1753538">#1753538 | [New-raws] Buta no Liver wa Kanetsu Shiro - 09 [1080p] [WEB].mkv</a> | 232.3 MiB | Anime - Raw | 8f3d78ff7fc01bc4a090b94dcc7bd0575c1d9e7d]]></description>
 		</item>
 	</channel>
 </rss>
