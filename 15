@@ -3,6 +3,23 @@
 		<title>Nyaa - &#34;New-raws&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;New-raws&#34;</description>
 		<item>
+			<title>[New-raws] Dead Mount Death Play S2 - 11 [1080p] [ENG].mkv</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1757240</guid>
+				<pubDate>Mon, 18 Dec 2023 16:06:11 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:d4f4b9cce12caa8b3c0662e848c7d09aedba12e2</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>302.2 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1757240">#1757240 | [New-raws] Dead Mount Death Play S2 - 11 [1080p] [ENG].mkv</a> | 302.2 MiB | Anime - English-translated | d4f4b9cce12caa8b3c0662e848c7d09aedba12e2]]></description>
+		</item>
+		<item>
 			<title>[New-raws] Kamonohashi Ron no Kindan Suiri - 12 [1080p] [AMZN].mkv</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1757210</guid>
 				<pubDate>Mon, 18 Dec 2023 14:05:42 -0000</pubDate>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1753739">#1753739 | [New-raws] Bokura no Ameiro Protocol - 10 [1080p] [ENG].mkv</a> | 1.3 GiB | Anime - English-translated | 358d30db48a11117aa8e895f17710bed08061e10]]></description>
-		</item>
-		<item>
-			<title>[New-raws] Kusuriya no Hitorigoto - 10 [1080p] [AMZN].mkv</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1753541</guid>
-				<pubDate>Sat, 09 Dec 2023 17:14:20 -0000</pubDate>
-
-				<nyaa:seeders>131</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1548</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:9b8994414e7964b13b94b22514aaa13ef0b62a6d</link>
-			<nyaa:categoryId>1_4</nyaa:categoryId>
-			<nyaa:category>Anime - Raw</nyaa:category>
-			<nyaa:size>734.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1753541">#1753541 | [New-raws] Kusuriya no Hitorigoto - 10 [1080p] [AMZN].mkv</a> | 734.6 MiB | Anime - Raw | 9b8994414e7964b13b94b22514aaa13ef0b62a6d]]></description>
 		</item>
 	</channel>
 </rss>
