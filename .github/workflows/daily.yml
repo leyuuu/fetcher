@@ -17,7 +17,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=%E6%98%9F%E7%A9%BA%E5%AD%97%E5%B9%95%E7%BB%84&c=0_0&f=0" -o 5 #星空字幕组
           curl "https://nyaa.si/?page=rss&q=LostYears&c=0_0&f=0" -o 6 #LostYears
           curl "https://nyaa.si/?page=rss&q=ASW&c=0_0&f=0" -o 7 #ASW
-          curl "https://nyaa.si/?page=rss&u=sff" -o 8 #Anime-Time
+          curl "https://nyaa.si/?page=rss&q=Koi-Raws&c=0_0&f=0" -o 8 #Koi-Raws
           curl "https://nyaa.si/?page=rss&u=Mashin" -o 9 # Music&OST
           curl "https://nyaa.si/?page=rss&u=theoadam" -o 10 # TV bangumi
           curl "https://nyaa.si/?page=rss&u=Raze876" -o 11 # Raze876_120FPS
