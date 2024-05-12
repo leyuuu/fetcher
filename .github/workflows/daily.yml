@@ -13,7 +13,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=%E5%96%B5%E8%90%8C%E5%A5%B6%E8%8C%B6%E5%B1%8B+1080+%E7%AE%80%E6%97%A5&c=0_0&f=0" -o 1 #喵萌奶茶屋 1080
           curl "https://nyaa.si/?page=rss&q=SweetSub&c=0_0&f=0" -o 2 #SweetSub
           curl "https://nyaa.si/?page=rss&q=Breeze" -o 3 #Breeze
-          curl "https://nyaa.si/?page=rss&q=Ohys-Raws+1080&c=0_0&f=0" -o 4 #Ohys-Raws 1080
+          curl "https://nyaa.si/?page=rss&q=ToonsHub" -o 4 #ToonsHub
           curl "https://nyaa.si/?page=rss&q=%E6%98%9F%E7%A9%BA%E5%AD%97%E5%B9%95%E7%BB%84&c=0_0&f=0" -o 5 #星空字幕组
           curl "https://nyaa.si/?page=rss&q=LostYears&c=0_0&f=0" -o 6 #LostYears
           curl "https://nyaa.si/?page=rss&q=ASW&c=0_0&f=0" -o 7 #ASW
