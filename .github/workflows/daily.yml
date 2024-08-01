@@ -27,7 +27,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=New-raws" -o 15 # New-raws
           curl "https://nyaa.si/?page=rss&q=NanakoRaws" -o 16 #NanakoRaws
           curl "https://nyaa.si/?page=rss&q=VARYG" -o 17 #VARYG
-          curl "https://nyaa.si/?page=rss&u=Explorer" -o 18 #Explorer OST
+          curl "https://nyaa.si/?page=rss&q=Soundtrack" -o 18 #Soundtrack
           curl "https://nyaa.si/?page=rss&u=dumbboy58" -o 19 #eng audio
           curl "https://nyaa.si/?page=rss&q=Multi+dub" -o 20 #Find some dub
 
