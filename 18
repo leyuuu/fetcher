@@ -1,64 +1,540 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyaa="https://nyaa.si/xmlns/nyaa" version="2.0">
 	<channel>
-		<title>Nyaa - Home - Torrent File RSS</title>
-		<description>RSS Feed for Home</description>
+		<title>Nyaa - &#34;Soundtrack|OST&#34; - Torrent File RSS</title>
+		<description>RSS Feed for &#34;Soundtrack|OST&#34;</description>
 		<item>
-			<title>[MOREPOWER] Kaguya-sama: Love is War S3 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai: Ultra Romantic</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1840494</guid>
-				<pubDate>Tue, 02 Jul 2024 16:02:51 -0000</pubDate>
+			<title>[TSDM自購][240722][碧蓝档案OST原声集]Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～[320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1852448</guid>
+				<pubDate>Mon, 29 Jul 2024 10:45:38 -0000</pubDate>
 
-				<nyaa:seeders>16</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>233</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:3a83ed61078510ee7904efdc68ddd96e9e191c0d</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>31.7 GiB</nyaa:size>
+				<nyaa:seeders>35</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>753</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:85b59e68b8ca1c50abfe05b063f186b97f1720a9</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>134.6 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1840494">#1840494 | [MOREPOWER] Kaguya-sama: Love is War S3 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai: Ultra Romantic</a> | 31.7 GiB | Anime - English-translated | 3A83ED61078510EE7904EFDC68DDD96E9E191C0D]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1852448">#1852448 | [TSDM自購][240722][碧蓝档案OST原声集]Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～[320K]</a> | 134.6 MiB | Audio - Lossy | 85b59e68b8ca1c50abfe05b063f186b97f1720a9]]></description>
 		</item>
 		<item>
-			<title>[MOREPOWER] Kaguya-sama: Love is War S2 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai?</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1840493</guid>
-				<pubDate>Tue, 02 Jul 2024 16:02:49 -0000</pubDate>
+			<title>Purgatory Walkers (从姑获鸟开始之龙城风云) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850576</guid>
+				<pubDate>Thu, 25 Jul 2024 19:44:17 -0000</pubDate>
 
-				<nyaa:seeders>16</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>256</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:2e1c37a32930ac7052ba634a69a3032a889c62ad</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>29.6 GiB</nyaa:size>
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>87</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:327be7f7e00bb8737a182cbd0e04feaa0b87f2da</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>16.4 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1840493">#1840493 | [MOREPOWER] Kaguya-sama: Love is War S2 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai?</a> | 29.6 GiB | Anime - English-translated | 2E1C37A32930AC7052BA634A69A3032A889C62AD]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850576">#1850576 | Purgatory Walkers (从姑获鸟开始之龙城风云) OST [MP3 320K]</a> | 16.4 MiB | Audio - Lossy | 327be7f7e00bb8737a182cbd0e04feaa0b87f2da]]></description>
 		</item>
 		<item>
-			<title>[MOREPOWER] Kaguya-sama: Love is War S1 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1840492</guid>
-				<pubDate>Tue, 02 Jul 2024 16:02:47 -0000</pubDate>
+			<title>Purgatory Walkers (从姑获鸟开始之龙城风云) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850574</guid>
+				<pubDate>Thu, 25 Jul 2024 19:44:05 -0000</pubDate>
 
-				<nyaa:seeders>12</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>253</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:1f5c30f3cd129003c38a01d12f78333a2a150ccd</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>24.1 GiB</nyaa:size>
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>126</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:b34cf41d0b9182a294e33b20d6f5e2ac83d30f9e</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>92.7 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1840492">#1840492 | [MOREPOWER] Kaguya-sama: Love is War S1 (BD 1080p HEVC FLAC) | Kaguya-sama wa Kokurasetai</a> | 24.1 GiB | Anime - English-translated | 1F5C30F3CD129003C38A01D12F78333A2A150CCD]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850574">#1850574 | Purgatory Walkers (从姑获鸟开始之龙城风云) OST [FLAC]</a> | 92.7 MiB | Audio - Lossless | b34cf41d0b9182a294e33b20d6f5e2ac83d30f9e]]></description>
+		</item>
+		<item>
+			<title>The Charm of Soul Pets (幻宠师) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850531</guid>
+				<pubDate>Thu, 25 Jul 2024 18:16:59 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>94</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:5257ac98f25c71806d1221086ccf30cf822331f4</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>13.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850531">#1850531 | The Charm of Soul Pets (幻宠师) OST [MP3 320K]</a> | 13.6 MiB | Audio - Lossy | 5257ac98f25c71806d1221086ccf30cf822331f4]]></description>
+		</item>
+		<item>
+			<title>The Charm of Soul Pets (幻宠师) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850530</guid>
+				<pubDate>Thu, 25 Jul 2024 18:16:45 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>120</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:3ffa12479ac6a9b5999c51e877f8228b8d74b54a</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>76.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850530">#1850530 | The Charm of Soul Pets (幻宠师) OST [FLAC]</a> | 76.0 MiB | Audio - Lossless | 3ffa12479ac6a9b5999c51e877f8228b8d74b54a]]></description>
+		</item>
+		<item>
+			<title>The Eternal Strife (不死不灭之少年出山) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850529</guid>
+				<pubDate>Thu, 25 Jul 2024 18:15:04 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>87</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:cc9dcffc6e915cfe6d97a0af8b38865f34848dde</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>16.4 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850529">#1850529 | The Eternal Strife (不死不灭之少年出山) OST [MP3 320K]</a> | 16.4 MiB | Audio - Lossy | cc9dcffc6e915cfe6d97a0af8b38865f34848dde]]></description>
+		</item>
+		<item>
+			<title>The Eternal Strife (不死不灭之少年出山) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850528</guid>
+				<pubDate>Thu, 25 Jul 2024 18:14:19 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>114</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:967b6c7d3077d33231b97c9bb903387a32058645</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>95.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850528">#1850528 | The Eternal Strife (不死不灭之少年出山) OST [FLAC]</a> | 95.5 MiB | Audio - Lossless | 967b6c7d3077d33231b97c9bb903387a32058645]]></description>
+		</item>
+		<item>
+			<title>Back to the Great Ming (回铭之烽火三月) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850509</guid>
+				<pubDate>Thu, 25 Jul 2024 17:59:45 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>126</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:64e723ab93c7aa4b4a2c2d4ba850a305a5453012</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>114.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850509">#1850509 | Back to the Great Ming (回铭之烽火三月) OST [FLAC]</a> | 114.9 MiB | Audio - Lossless | 64e723ab93c7aa4b4a2c2d4ba850a305a5453012]]></description>
+		</item>
+		<item>
+			<title>Back to the Great Ming (回铭之烽火三月) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850508</guid>
+				<pubDate>Thu, 25 Jul 2024 17:59:41 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>87</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:ab5f80622f4c051ac1959f24897872eefe6f5365</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>20.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850508">#1850508 | Back to the Great Ming (回铭之烽火三月) OST [MP3 320K]</a> | 20.9 MiB | Audio - Lossy | ab5f80622f4c051ac1959f24897872eefe6f5365]]></description>
+		</item>
+		<item>
+			<title>Legend of Xianwu (仙武传) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850497</guid>
+				<pubDate>Thu, 25 Jul 2024 17:57:22 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>103</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:ce83b3ae87e198920ce45c03c52291bb84383781</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>21.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850497">#1850497 | Legend of Xianwu (仙武传) OST [MP3 320K]</a> | 21.0 MiB | Audio - Lossy | ce83b3ae87e198920ce45c03c52291bb84383781]]></description>
+		</item>
+		<item>
+			<title>Soul Land (斗罗大陆) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850492</guid>
+				<pubDate>Thu, 25 Jul 2024 17:53:33 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>128</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:2e390b82f3f96bb7ee839923c73d85952a14d6f2</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>218.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850492">#1850492 | Soul Land (斗罗大陆) OST [MP3 320K]</a> | 218.1 MiB | Audio - Lossy | 2e390b82f3f96bb7ee839923c73d85952a14d6f2]]></description>
+		</item>
+		<item>
+			<title>Swallowed Star (吞噬星空) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850488</guid>
+				<pubDate>Thu, 25 Jul 2024 17:40:43 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>114</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:230cab0bc765173d7485f7d638ede54e77809716</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>37.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850488">#1850488 | Swallowed Star (吞噬星空) OST [MP3 320K]</a> | 37.9 MiB | Audio - Lossy | 230cab0bc765173d7485f7d638ede54e77809716]]></description>
+		</item>
+		<item>
+			<title>Swallowed Star (吞噬星空) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850486</guid>
+				<pubDate>Thu, 25 Jul 2024 17:40:27 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>140</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:1a53510f662e266567ab7920ead60d82a0d37e67</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>131.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850486">#1850486 | Swallowed Star (吞噬星空) OST [FLAC]</a> | 131.6 MiB | Audio - Lossless | 1a53510f662e266567ab7920ead60d82a0d37e67]]></description>
+		</item>
+		<item>
+			<title>The Daily Life of the Immortal King (仙王的日常生活) S1-S4 Album OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850458</guid>
+				<pubDate>Thu, 25 Jul 2024 17:30:29 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>116</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:16b5cae8c6778db97be0de5bb05cc4ce5d4e095e</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>370.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850458">#1850458 | The Daily Life of the Immortal King (仙王的日常生活) S1-S4 Album OST [MP3 320K]</a> | 370.1 MiB | Audio - Lossy | 16b5cae8c6778db97be0de5bb05cc4ce5d4e095e]]></description>
+		</item>
+		<item>
+			<title>Battle Through The Heavens (斗破苍穹) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850446</guid>
+				<pubDate>Thu, 25 Jul 2024 17:00:34 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>135</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:1b15d9d03369cb7131827dbd3989e1151bae8223</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>697.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850446">#1850446 | Battle Through The Heavens (斗破苍穹) OST [MP3 320K]</a> | 697.5 MiB | Audio - Lossy | 1b15d9d03369cb7131827dbd3989e1151bae8223]]></description>
+		</item>
+		<item>
+			<title>My Heroic Husband (赘婿) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850430</guid>
+				<pubDate>Thu, 25 Jul 2024 16:35:45 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>119</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:d7e930aab9ea076c6b1765f43bffeb23a60aa630</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>18.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850430">#1850430 | My Heroic Husband (赘婿) OST [MP3 320K]</a> | 18.1 MiB | Audio - Lossy | d7e930aab9ea076c6b1765f43bffeb23a60aa630]]></description>
+		</item>
+		<item>
+			<title>The Daily Life of the Immortal King (仙王的日常生活) S1-S4 Album OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850221</guid>
+				<pubDate>Thu, 25 Jul 2024 09:08:00 -0000</pubDate>
+
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>144</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7eb56f8a4f1cb3fbca4551504942f7c86e1edc20</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.5 GiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850221">#1850221 | The Daily Life of the Immortal King (仙王的日常生活) S1-S4 Album OST [FLAC]</a> | 1.5 GiB | Audio - Lossless | 7eb56f8a4f1cb3fbca4551504942f7c86e1edc20]]></description>
+		</item>
+		<item>
+			<title>Renegade Immortal (仙逆) OST [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850210</guid>
+				<pubDate>Thu, 25 Jul 2024 08:12:11 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>147</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:723624ac83041d6adf6d96933df707a2a1f2bebe</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>284.2 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850210">#1850210 | Renegade Immortal (仙逆) OST [MP3 320K]</a> | 284.2 MiB | Audio - Lossy | 723624ac83041d6adf6d96933df707a2a1f2bebe]]></description>
+		</item>
+		<item>
+			<title>Renegade Immortal (仙逆) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1850209</guid>
+				<pubDate>Thu, 25 Jul 2024 08:11:44 -0000</pubDate>
+
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>159</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7bdfeb3615923634b598fde7f4e4e5d755895a23</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.0 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1850209">#1850209 | Renegade Immortal (仙逆) OST [FLAC]</a> | 1.0 GiB | Audio - Lossless | 7bdfeb3615923634b598fde7f4e4e5d755895a23]]></description>
+		</item>
+		<item>
+			<title>Battle Through The Heavens S5 (斗破苍穹) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1848707</guid>
+				<pubDate>Sun, 21 Jul 2024 11:48:11 -0000</pubDate>
+
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>196</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:17756c0fc963a8d6644cf1a17c0b36a33c9e3f27</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>934.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1848707">#1848707 | Battle Through The Heavens S5 (斗破苍穹) OST [FLAC]</a> | 934.5 MiB | Audio - Lossless | 17756c0fc963a8d6644cf1a17c0b36a33c9e3f27]]></description>
+		</item>
+		<item>
+			<title>[2024.07.20]鸣潮1.1 往岁乘霄醒惊蛰OST-mini专辑 Wuthering Waves 1.1 Thaw of Eons OST-mini Album／鸣潮先约电台&amp;jixwang[FLAC 48kHz 24bit]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1848509</guid>
+				<pubDate>Sun, 21 Jul 2024 01:50:03 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>217</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:39aac90a96d023872ac756f736595bdbf01f80fb</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>74.4 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1848509">#1848509 | [2024.07.20]鸣潮1.1 往岁乘霄醒惊蛰OST-mini专辑 Wuthering Waves 1.1 Thaw of Eons OST-mini Album／鸣潮先约电台&amp;jixwang[FLAC 48kHz 24bit]</a> | 74.4 MiB | Audio - Lossless | 39aac90a96d023872ac756f736595bdbf01f80fb]]></description>
+		</item>
+		<item>
+			<title>CHANMINA, ASH ISLAND – OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1847803</guid>
+				<pubDate>Fri, 19 Jul 2024 16:37:12 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>173</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7563c4be0055556495b9a332bf58c9b8f3c11c0f</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>131.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1847803">#1847803 | CHANMINA, ASH ISLAND – OST [FLAC]</a> | 131.0 MiB | Audio - Lossless | 7563c4be0055556495b9a332bf58c9b8f3c11c0f]]></description>
+		</item>
+		<item>
+			<title>CHANMINA, ASH ISLAND – OST [MP3]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1847759</guid>
+				<pubDate>Fri, 19 Jul 2024 15:45:20 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>11</nyaa:leechers>
+				<nyaa:downloads>152</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:e928b4f0e58ded4c24660389a4727c041d5bf262</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>13.8 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1847759">#1847759 | CHANMINA, ASH ISLAND – OST [MP3]</a> | 13.8 MiB | Audio - Lossy | e928b4f0e58ded4c24660389a4727c041d5bf262]]></description>
+		</item>
+		<item>
+			<title>Legend of Xianwu (仙武传) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1847314</guid>
+				<pubDate>Thu, 25 Jul 2024 18:11:59 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>14</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:39a2398ca1e1c023c2412dd745b152e0f7fe56c9</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>58.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1847314">#1847314 | Legend of Xianwu (仙武传) OST [FLAC]</a> | 58.5 MiB | Audio - Lossless | 39a2398ca1e1c023c2412dd745b152e0f7fe56c9]]></description>
+		</item>
+		<item>
+			<title>My Heroic Husband (赘婿) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1847080</guid>
+				<pubDate>Thu, 18 Jul 2024 07:26:14 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>163</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:2e79f9aaa8acba795d08f5961324dedbb776fb84</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>62.2 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1847080">#1847080 | My Heroic Husband (赘婿) OST [FLAC]</a> | 62.2 MiB | Audio - Lossless | 2e79f9aaa8acba795d08f5961324dedbb776fb84]]></description>
+		</item>
+		<item>
+			<title>[2024.07.16]绝区零 Zenless Zone Zero - Loading…【Official Website OST】／三Z-STUDIO&amp;HOYO-MiX[FLAC 48kHz 24bit]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1846281</guid>
+				<pubDate>Tue, 16 Jul 2024 05:02:41 -0000</pubDate>
+
+				<nyaa:seeders>15</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>455</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:07c59f47afffd702a6a3d2880b288c35c034a297</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>165.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1846281">#1846281 | [2024.07.16]绝区零 Zenless Zone Zero - Loading…【Official Website OST】／三Z-STUDIO&amp;HOYO-MiX[FLAC 48kHz 24bit]</a> | 165.0 MiB | Audio - Lossless | 07c59f47afffd702a6a3d2880b288c35c034a297]]></description>
+		</item>
+		<item>
+			<title>Christopher Franke - Tenchi the Movie - Tenchi Muyo in Love Soundtrack (FLAC + Scans)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1843968</guid>
+				<pubDate>Thu, 11 Jul 2024 00:57:36 -0000</pubDate>
+
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>12</nyaa:leechers>
+				<nyaa:downloads>264</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:d4491ac8938969fa2701b55fda8196ef1ca58e5e</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>832.4 MiB</nyaa:size>
+			<nyaa:comments>4</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1843968">#1843968 | Christopher Franke - Tenchi the Movie - Tenchi Muyo in Love Soundtrack (FLAC + Scans)</a> | 832.4 MiB | Audio - Lossless | d4491ac8938969fa2701b55fda8196ef1ca58e5e]]></description>
+		</item>
+		<item>
+			<title>Lupin the Third: The Castle of Cagliostro Original Soundtrack BGM | ルパン三世 カリオストロの城 オリジナル・サウンドトラック BGM集 (1983) [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1843938</guid>
+				<pubDate>Wed, 10 Jul 2024 21:11:13 -0000</pubDate>
+
+				<nyaa:seeders>13</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>1028</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a9a478eb4b79472b9f0556ad7d1eaa85edf0e102</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>302.7 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1843938">#1843938 | Lupin the Third: The Castle of Cagliostro Original Soundtrack BGM | ルパン三世 カリオストロの城 オリジナル・サウンドトラック BGM集 (1983) [FLAC]</a> | 302.7 MiB | Audio - Lossless | a9a478eb4b79472b9f0556ad7d1eaa85edf0e102]]></description>
+		</item>
+		<item>
+			<title>2023.09.27 [SVWC-70626~7] Fate／Grand Order -Divine Realm of the Round Table Original Soundtrack</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1842020</guid>
+				<pubDate>Sat, 06 Jul 2024 11:08:52 -0000</pubDate>
+
+				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
+				<nyaa:downloads>295</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:91cc1fcef6b81c5f7ff568aed660c0d7f11c8063</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>569.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1842020">#1842020 | 2023.09.27 [SVWC-70626~7] Fate／Grand Order -Divine Realm of the Round Table Original Soundtrack</a> | 569.5 MiB | Audio - Lossless | 91cc1fcef6b81c5f7ff568aed660c0d7f11c8063]]></description>
+		</item>
+		<item>
+			<title>[2024.07.06] Epic Seven World Arena Championship 2024 OST「Frozen Eclipse」／Airi Kanna [MP3 320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1842004</guid>
+				<pubDate>Sat, 06 Jul 2024 09:47:14 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>737</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c4bda1bdd3fa8041b6355edb7bb62cd751b1886c</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>34.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>Yes</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1842004">#1842004 | [2024.07.06] Epic Seven World Arena Championship 2024 OST「Frozen Eclipse」／Airi Kanna [MP3 320K]</a> | 34.9 MiB | Audio - Lossy | c4bda1bdd3fa8041b6355edb7bb62cd751b1886c]]></description>
+		</item>
+		<item>
+			<title>[2024.07.06] Epic Seven World Arena Championship 2024 OST「Frozen Eclipse」／Airi Kanna [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1842003</guid>
+				<pubDate>Sat, 06 Jul 2024 09:47:11 -0000</pubDate>
+
+				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
+				<nyaa:downloads>424</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:802d604c75a19530befc3a3efe1f64f673cd5279</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>107.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>Yes</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1842003">#1842003 | [2024.07.06] Epic Seven World Arena Championship 2024 OST「Frozen Eclipse」／Airi Kanna [FLAC]</a> | 107.0 MiB | Audio - Lossless | 802d604c75a19530befc3a3efe1f64f673cd5279]]></description>
 		</item>
 		<item>
 			<title>Chained Soldier Original Soundtrack (2024) [FLAC] [24B-96kHz] | Mato Seihei no Slave | 魔都精兵のスレイブ</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1840185</guid>
 				<pubDate>Mon, 01 Jul 2024 16:28:37 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>255</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:cf4dc30f13a435f70028b9cd9c4d657386529231</link>
@@ -68,16 +544,16 @@
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1840185">#1840185 | Chained Soldier Original Soundtrack (2024) [FLAC] [24B-96kHz] | Mato Seihei no Slave | 魔都精兵のスレイブ</a> | 2.2 GiB | Audio - Lossless | CF4DC30F13A435F70028B9CD9C4D657386529231]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1840185">#1840185 | Chained Soldier Original Soundtrack (2024) [FLAC] [24B-96kHz] | Mato Seihei no Slave | 魔都精兵のスレイブ</a> | 2.2 GiB | Audio - Lossless | cf4dc30f13a435f70028b9cd9c4d657386529231]]></description>
 		</item>
 		<item>
 			<title>「Kaiju No.8」Original Soundtrack (2024) [FLAC] [16B-44.1kHz] | Kaijuu 8-gou |「怪獣8号」</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1839926</guid>
 				<pubDate>Sun, 30 Jun 2024 17:25:45 -0000</pubDate>
 
-				<nyaa:seeders>18</nyaa:seeders>
+				<nyaa:seeders>12</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>716</nyaa:downloads>
+				<nyaa:downloads>717</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:449f501a94ba1a329dc0658b95f3af9dcdc019ed</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -85,16 +561,611 @@
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1839926">#1839926 | 「Kaiju No.8」Original Soundtrack (2024) [FLAC] [16B-44.1kHz] | Kaijuu 8-gou |「怪獣8号」</a> | 645.2 MiB | Audio - Lossless | 449F501A94BA1A329DC0658B95F3AF9DCDC019ED]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1839926">#1839926 | 「Kaiju No.8」Original Soundtrack (2024) [FLAC] [16B-44.1kHz] | Kaijuu 8-gou |「怪獣8号」</a> | 645.2 MiB | Audio - Lossless | 449f501a94ba1a329dc0658b95f3af9dcdc019ed]]></description>
+		</item>
+		<item>
+			<title>[TSDM自購][240626]TVアニメ『この素晴らしい世界に祝福を! 3』OST「終わりない旅路に祝福を!」／音楽：甲田雅人[320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1839652</guid>
+				<pubDate>Sun, 30 Jun 2024 05:16:37 -0000</pubDate>
+
+				<nyaa:seeders>13</nyaa:seeders>
+				<nyaa:leechers>4</nyaa:leechers>
+				<nyaa:downloads>1310</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:6f4fb9774a869ef084eb3cd729b91e11cbc4a3e9</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>174.2 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1839652">#1839652 | [TSDM自購][240626]TVアニメ『この素晴らしい世界に祝福を! 3』OST「終わりない旅路に祝福を!」／音楽：甲田雅人[320K]</a> | 174.2 MiB | Audio - Lossy | 6f4fb9774a869ef084eb3cd729b91e11cbc4a3e9]]></description>
+		</item>
+		<item>
+			<title>ELDEN RING SHADOW OF THE ERDTREE ORIGINAL SOUNDTRACK (MP3)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1839498</guid>
+				<pubDate>Sat, 29 Jun 2024 18:25:45 -0000</pubDate>
+
+				<nyaa:seeders>14</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>825</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:f6c82b56604207d264da1b970de58903e85f2c49</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>520.4 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1839498">#1839498 | ELDEN RING SHADOW OF THE ERDTREE ORIGINAL SOUNDTRACK (MP3)</a> | 520.4 MiB | Audio - Lossy | f6c82b56604207d264da1b970de58903e85f2c49]]></description>
+		</item>
+		<item>
+			<title>[TSDM自購][240617]TVアニメ『Lv2からチートだった元勇者候補のまったり異世界ライフ』ORIGINAL SOUNDTRACK／音楽：夢見クジラ[320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1838142</guid>
+				<pubDate>Wed, 26 Jun 2024 03:36:30 -0000</pubDate>
+
+				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:leechers>12</nyaa:leechers>
+				<nyaa:downloads>978</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a4a86f851723da8e79d3ca11795c46a12c7dc0ae</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>185.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1838142">#1838142 | [TSDM自購][240617]TVアニメ『Lv2からチートだった元勇者候補のまったり異世界ライフ』ORIGINAL SOUNDTRACK／音楽：夢見クジラ[320K]</a> | 185.1 MiB | Audio - Lossy | a4a86f851723da8e79d3ca11795c46a12c7dc0ae]]></description>
+		</item>
+		<item>
+			<title>Arashi no Yoru ni Original Soundtrack あらしのよるに オリジナル・サウンドトラック [FLAC+MP3]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1837722</guid>
+				<pubDate>Mon, 24 Jun 2024 20:32:10 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>240</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:16dc1dd8a89fd9d7197234b42f471c2ea476dab1</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>301.3 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1837722">#1837722 | Arashi no Yoru ni Original Soundtrack あらしのよるに オリジナル・サウンドトラック [FLAC+MP3]</a> | 301.3 MiB | Audio - Lossless | 16dc1dd8a89fd9d7197234b42f471c2ea476dab1]]></description>
+		</item>
+		<item>
+			<title>Dofus, book 1 (livre 1) : Julith (2016) - Blu-Ray 1080p-HEVC [French Dub + Subtitles] + Bonus [French Dub] + CD OST-MaitreAnonyme</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1836769</guid>
+				<pubDate>Sat, 22 Jun 2024 16:55:12 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>72</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:17bbcce183bfef582d57179fb51fa684363d49ec</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>10.6 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1836769">#1836769 | Dofus, book 1 (livre 1) : Julith (2016) - Blu-Ray 1080p-HEVC [French Dub + Subtitles] + Bonus [French Dub] + CD OST-MaitreAnonyme</a> | 10.6 GiB | Anime - English-translated | 17bbcce183bfef582d57179fb51fa684363d49ec]]></description>
+		</item>
+		<item>
+			<title>[Anime Time] Pokemon Complete Series (Season 01-25+Movies+Specials+Shorts+OST) [Eng Dub] [DVD+Web-Sl][1080p][HEVC 10bit x265][AAC] [Batch]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1834262</guid>
+				<pubDate>Sun, 16 Jun 2024 10:13:54 -0000</pubDate>
+
+				<nyaa:seeders>38</nyaa:seeders>
+				<nyaa:leechers>95</nyaa:leechers>
+				<nyaa:downloads>583</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:520cf21103a92b48fbf5b1282e8be40d6faa9d1c</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>774.8 GiB</nyaa:size>
+			<nyaa:comments>6</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1834262">#1834262 | [Anime Time] Pokemon Complete Series (Season 01-25+Movies+Specials+Shorts+OST) [Eng Dub] [DVD+Web-Sl][1080p][HEVC 10bit x265][AAC] [Batch]</a> | 774.8 GiB | Anime - English-translated | 520cf21103a92b48fbf5b1282e8be40d6faa9d1c]]></description>
+		</item>
+		<item>
+			<title>Dofus, book 1 (livre 1) : Julith (2016) - BDMV [French Dub + Subtitles] + DVDISO [French Dub] + CD OST [WAV]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1833777</guid>
+				<pubDate>Sat, 15 Jun 2024 14:24:58 -0000</pubDate>
+
+				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>74</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a812c2bcbd1c4b00bd7812b784307d3c2d4fdef0</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>32.2 GiB</nyaa:size>
+			<nyaa:comments>2</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1833777">#1833777 | Dofus, book 1 (livre 1) : Julith (2016) - BDMV [French Dub + Subtitles] + DVDISO [French Dub] + CD OST [WAV]</a> | 32.2 GiB | Anime - English-translated | a812c2bcbd1c4b00bd7812b784307d3c2d4fdef0]]></description>
+		</item>
+		<item>
+			<title>[2024.06.14] ATLUS Sound Team - Shin Megami Tensei (真・女神転生) V꞉ Vengeance Original Soundtrack (48 kHz, 24-bit)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1833022</guid>
+				<pubDate>Thu, 13 Jun 2024 17:26:10 -0000</pubDate>
+
+				<nyaa:seeders>15</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>778</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:2f1b708ba1ceb1f89a03ca5abcd4d2960d865897</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>2.7 GiB</nyaa:size>
+			<nyaa:comments>3</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1833022">#1833022 | [2024.06.14] ATLUS Sound Team - Shin Megami Tensei (真・女神転生) V꞉ Vengeance Original Soundtrack (48 kHz, 24-bit)</a> | 2.7 GiB | Audio - Lossless | 2f1b708ba1ceb1f89a03ca5abcd4d2960d865897]]></description>
+		</item>
+		<item>
+			<title>[2024.06.14] ATLUS Sound Team - Shin Megami Tensei (真・女神転生) V꞉ Vengeance Original Soundtrack (AMZ WEB) (44.1 kHz, 16-bit)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1832878</guid>
+				<pubDate>Thu, 13 Jun 2024 13:22:29 -0000</pubDate>
+
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
+				<nyaa:downloads>370</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:0c9f8ba4df756b3b261dbd839099d21e6def6157</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.4 GiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1832878">#1832878 | [2024.06.14] ATLUS Sound Team - Shin Megami Tensei (真・女神転生) V꞉ Vengeance Original Soundtrack (AMZ WEB) (44.1 kHz, 16-bit)</a> | 1.4 GiB | Audio - Lossless | 0c9f8ba4df756b3b261dbd839099d21e6def6157]]></description>
+		</item>
+		<item>
+			<title>[UltraRemux] Kara no Kyoukai (The Garden of Sinners) - Complete Series + Manner Movies + OST + Extras (JPBD) (Lossless)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1828314</guid>
+				<pubDate>Mon, 03 Jun 2024 05:11:39 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>4</nyaa:leechers>
+				<nyaa:downloads>78</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c792c83a9d5d577b128ba32e319e5d0802b357f9</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>250.6 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1828314">#1828314 | [UltraRemux] Kara no Kyoukai (The Garden of Sinners) - Complete Series + Manner Movies + OST + Extras (JPBD) (Lossless)</a> | 250.6 GiB | Anime - English-translated | c792c83a9d5d577b128ba32e319e5d0802b357f9]]></description>
+		</item>
+		<item>
+			<title>[CMEN] [2024.04.24] ATLUS Sound Team - PERSONA3 RELOAD ORIGINAL SOUNDTRACK w/ scans (AGM-001~2)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1826336</guid>
+				<pubDate>Thu, 30 May 2024 08:24:03 -0000</pubDate>
+
+				<nyaa:seeders>16</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>597</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:e250dc616e1048715c2144dd2d9537951444d677</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>3.5 GiB</nyaa:size>
+			<nyaa:comments>4</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1826336">#1826336 | [CMEN] [2024.04.24] ATLUS Sound Team - PERSONA3 RELOAD ORIGINAL SOUNDTRACK w/ scans (AGM-001~2)</a> | 3.5 GiB | Audio - Lossless | e250dc616e1048715c2144dd2d9537951444d677]]></description>
+		</item>
+		<item>
+			<title>[CMEN] [2024.04.24] ATLUS Sound Team -  PERSONA3 RELOAD ORIGINAL SOUNDTRACK (Digital Download)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1826335</guid>
+				<pubDate>Thu, 30 May 2024 08:23:56 -0000</pubDate>
+
+				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>491</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:18bc8121ff46dda53520b7647c959a15542b0011</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.9 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1826335">#1826335 | [CMEN] [2024.04.24] ATLUS Sound Team -  PERSONA3 RELOAD ORIGINAL SOUNDTRACK (Digital Download)</a> | 1.9 GiB | Audio - Lossless | 18bc8121ff46dda53520b7647c959a15542b0011]]></description>
+		</item>
+		<item>
+			<title>Wonderful Pretty Cure! Original・Soundtrack 1: Pretty Cure・Wonderful・Sound!! [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1825759</guid>
+				<pubDate>Tue, 28 May 2024 18:11:55 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>306</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:b4303fe21a10263ae70b07e95d557df7521f64bd</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>2.0 GiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1825759">#1825759 | Wonderful Pretty Cure! Original・Soundtrack 1: Pretty Cure・Wonderful・Sound!! [FLAC]</a> | 2.0 GiB | Audio - Lossless | b4303fe21a10263ae70b07e95d557df7521f64bd]]></description>
+		</item>
+		<item>
+			<title>Hellsing Ultimate missing OST &amp; 5.1 soundtrack</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1824681</guid>
+				<pubDate>Sun, 26 May 2024 13:38:59 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>320</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:06c1004ef5ffa9fbc6c12658c418662f7a04ae98</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>775.5 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1824681">#1824681 | Hellsing Ultimate missing OST &amp; 5.1 soundtrack</a> | 775.5 MiB | Audio - Lossless | 06c1004ef5ffa9fbc6c12658c418662f7a04ae98]]></description>
+		</item>
+		<item>
+			<title>[TSDM自購][240507]神は遊戯に飢えている。ORIGINAL SOUNDTRACK／音楽：吟(BUSTED ROSE)[320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1824644</guid>
+				<pubDate>Sun, 26 May 2024 12:17:54 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>699</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:d4a74d4d9ad2e1709ee26b9915e9b6296e05a998</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>174.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1824644">#1824644 | [TSDM自購][240507]神は遊戯に飢えている。ORIGINAL SOUNDTRACK／音楽：吟(BUSTED ROSE)[320K]</a> | 174.6 MiB | Audio - Lossy | d4a74d4d9ad2e1709ee26b9915e9b6296e05a998]]></description>
+		</item>
+		<item>
+			<title>Sound Euphonium S03E08 Melancholy Ostinato 1080p CR WEB-DL AAC2.0 H 264-VARYG (Hibike! Euphonium, Multi-Subs)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1824596</guid>
+				<pubDate>Sun, 26 May 2024 10:35:25 -0000</pubDate>
+
+				<nyaa:seeders>15</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>279</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:87aaae33d7ee8af0cef2c1a1cb768660af76fe46</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>1.4 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1824596">#1824596 | Sound Euphonium S03E08 Melancholy Ostinato 1080p CR WEB-DL AAC2.0 H 264-VARYG (Hibike! Euphonium, Multi-Subs)</a> | 1.4 GiB | Anime - English-translated | 87aaae33d7ee8af0cef2c1a1cb768660af76fe46]]></description>
+		</item>
+		<item>
+			<title>Odekake Kozame (Little Shark&#39;s Outings - Outgoing Baby Shark) S1 - Soundtrack OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1823484</guid>
+				<pubDate>Fri, 24 May 2024 03:26:25 -0000</pubDate>
+
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>244</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:df10fe0de4c97d8e316f100101a451ffcf9869a4</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>318.3 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>Yes</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1823484">#1823484 | Odekake Kozame (Little Shark&#39;s Outings - Outgoing Baby Shark) S1 - Soundtrack OST [FLAC]</a> | 318.3 MiB | Audio - Lossless | df10fe0de4c97d8e316f100101a451ffcf9869a4]]></description>
+		</item>
+		<item>
+			<title>Goat Simulator Original Soundtrack</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1821884</guid>
+				<pubDate>Mon, 20 May 2024 12:03:39 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>177</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7933f109ec517be2f9c972647e97e36557824031</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>80.0 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1821884">#1821884 | Goat Simulator Original Soundtrack</a> | 80.0 MiB | Audio - Lossy | 7933f109ec517be2f9c972647e97e36557824031]]></description>
+		</item>
+		<item>
+			<title>Little Witch Nobeta Original Soundtrack</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1821883</guid>
+				<pubDate>Mon, 20 May 2024 12:01:45 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>197</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a93ccda8117c7da10994b0196ec35fdd55a3f2dd</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>86.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1821883">#1821883 | Little Witch Nobeta Original Soundtrack</a> | 86.6 MiB | Audio - Lossy | a93ccda8117c7da10994b0196ec35fdd55a3f2dd]]></description>
+		</item>
+		<item>
+			<title>[Anime Time] Fairy Tail Complete Series (Season 01 to 09+Movies+OVAs+OST) [BD] [Dual Audio][1080p][HEVC 10bit x265][AC3][Eng Sub] [Batch]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1818713</guid>
+				<pubDate>Mon, 13 May 2024 16:13:37 -0000</pubDate>
+
+				<nyaa:seeders>46</nyaa:seeders>
+				<nyaa:leechers>41</nyaa:leechers>
+				<nyaa:downloads>1388</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:6e111fdc6401e742bad9b580f3fe7c23ea26efcc</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>223.5 GiB</nyaa:size>
+			<nyaa:comments>2</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1818713">#1818713 | [Anime Time] Fairy Tail Complete Series (Season 01 to 09+Movies+OVAs+OST) [BD] [Dual Audio][1080p][HEVC 10bit x265][AC3][Eng Sub] [Batch]</a> | 223.5 GiB | Anime - English-translated | 6e111fdc6401e742bad9b580f3fe7c23ea26efcc]]></description>
+		</item>
+		<item>
+			<title>Hana no Mahou Tsukai Mary Bell Soundtrack &#34;Mary Bell to Utaou!&#34; [FLAC] / 花の魔法使いマリーベル サウンドトラック マリーベルと歌おう！</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1818082</guid>
+				<pubDate>Sun, 12 May 2024 12:30:13 -0000</pubDate>
+
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>313</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7520193f2f46b5851f0aa42eecbda9117008ecdc</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>459.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1818082">#1818082 | Hana no Mahou Tsukai Mary Bell Soundtrack &#34;Mary Bell to Utaou!&#34; [FLAC] / 花の魔法使いマリーベル サウンドトラック マリーベルと歌おう！</a> | 459.1 MiB | Audio - Lossless | 7520193f2f46b5851f0aa42eecbda9117008ecdc]]></description>
+		</item>
+		<item>
+			<title>The Ravages of Time (火凤燎原) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1817075</guid>
+				<pubDate>Fri, 10 May 2024 18:53:02 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>150</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c48f20b57636f8369bc90a812fa404f728cc7ef2</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>96.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1817075">#1817075 | The Ravages of Time (火凤燎原) OST [FLAC]</a> | 96.6 MiB | Audio - Lossless | c48f20b57636f8369bc90a812fa404f728cc7ef2]]></description>
+		</item>
+		<item>
+			<title>Sword and Fairy 7/仙剣奇侠伝 7 Soundtrack</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1817070</guid>
+				<pubDate>Fri, 10 May 2024 18:31:21 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>198</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:d46d00fd015a1b986efc6d2d8c745eaa62595e70</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.7 GiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1817070">#1817070 | Sword and Fairy 7/仙剣奇侠伝 7 Soundtrack</a> | 1.7 GiB | Audio - Lossless | d46d00fd015a1b986efc6d2d8c745eaa62595e70]]></description>
+		</item>
+		<item>
+			<title>[230222] Fuufu Ijou, Koibito Miman. Original Soundtrack (FLAC)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816879</guid>
+				<pubDate>Fri, 10 May 2024 13:38:16 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>236</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c1b87fce733128b90bd83febb08777da167c8987</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>339.3 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816879">#1816879 | [230222] Fuufu Ijou, Koibito Miman. Original Soundtrack (FLAC)</a> | 339.3 MiB | Audio - Lossless | c1b87fce733128b90bd83febb08777da167c8987]]></description>
+		</item>
+		<item>
+			<title>The King&#39;s Avatar (全职高手) (S1+S2+Movie+Specials) OST [MP3]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816809</guid>
+				<pubDate>Fri, 10 May 2024 09:14:47 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>171</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:6ade6916ead94659444c40c365b4e0d4171f876c</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>429.6 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816809">#1816809 | The King&#39;s Avatar (全职高手) (S1+S2+Movie+Specials) OST [MP3]</a> | 429.6 MiB | Audio - Lossy | 6ade6916ead94659444c40c365b4e0d4171f876c]]></description>
+		</item>
+		<item>
+			<title>The King&#39;s Avatar (全职高手) (S2+Movie+Specials) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816808</guid>
+				<pubDate>Fri, 10 May 2024 09:13:12 -0000</pubDate>
+
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
+				<nyaa:downloads>191</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:b82d05100a1c47c46cc5f54a5c47551763a15ddd</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.3 GiB</nyaa:size>
+			<nyaa:comments>3</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816808">#1816808 | The King&#39;s Avatar (全职高手) (S2+Movie+Specials) OST [FLAC]</a> | 1.3 GiB | Audio - Lossless | b82d05100a1c47c46cc5f54a5c47551763a15ddd]]></description>
+		</item>
+		<item>
+			<title>[TSDM自購][240419]SOUL COVENANT ORIGINAL SOUNDTRACK／音楽：光田康典[320K]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816803</guid>
+				<pubDate>Fri, 10 May 2024 07:51:24 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>790</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:3aa0ca5a595789ca3c68e4c88dc36ade8cb79125</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>197.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816803">#1816803 | [TSDM自購][240419]SOUL COVENANT ORIGINAL SOUNDTRACK／音楽：光田康典[320K]</a> | 197.1 MiB | Audio - Lossy | 3aa0ca5a595789ca3c68e4c88dc36ade8cb79125]]></description>
+		</item>
+		<item>
+			<title>Mahou no Angel★Sweet Mint ♡Original Soundtrack♡ [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816432</guid>
+				<pubDate>Thu, 09 May 2024 09:39:51 -0000</pubDate>
+
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>402</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:71948457b2fe640f4ea28d7ab1fd95745ccc845c</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>247.6 MiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816432">#1816432 | Mahou no Angel★Sweet Mint ♡Original Soundtrack♡ [FLAC]</a> | 247.6 MiB | Audio - Lossless | 71948457b2fe640f4ea28d7ab1fd95745ccc845c]]></description>
+		</item>
+		<item>
+			<title>Throne of Seal (神印王座) OST [MP3]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816406</guid>
+				<pubDate>Thu, 09 May 2024 06:58:52 -0000</pubDate>
+
+				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>150</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:fa6773de85c4407efa09105dcc0149d7b9bd4977</link>
+			<nyaa:categoryId>2_2</nyaa:categoryId>
+			<nyaa:category>Audio - Lossy</nyaa:category>
+			<nyaa:size>76.0 MiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816406">#1816406 | Throne of Seal (神印王座) OST [MP3]</a> | 76.0 MiB | Audio - Lossy | fa6773de85c4407efa09105dcc0149d7b9bd4977]]></description>
+		</item>
+		<item>
+			<title>Throne of Seal (神印王座) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816405</guid>
+				<pubDate>Thu, 09 May 2024 06:54:44 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>183</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:e89646b7300701408e4b68fa49042883e10decb2</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>379.0 MiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816405">#1816405 | Throne of Seal (神印王座) OST [FLAC]</a> | 379.0 MiB | Audio - Lossless | e89646b7300701408e4b68fa49042883e10decb2]]></description>
+		</item>
+		<item>
+			<title>[UltraRemux] Ao no Exorcist (Blue Exorcist) - S02 (Dual Audio) + OVAs + OST + Extras (JPBD - TV) (Lossless)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1816252</guid>
+				<pubDate>Wed, 08 May 2024 16:58:19 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>46</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:02c910dbecc58c98258ffc9d984f5cf0bd583a51</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>92.6 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1816252">#1816252 | [UltraRemux] Ao no Exorcist (Blue Exorcist) - S02 (Dual Audio) + OVAs + OST + Extras (JPBD - TV) (Lossless)</a> | 92.6 GiB | Anime - English-translated | 02c910dbecc58c98258ffc9d984f5cf0bd583a51]]></description>
+		</item>
+		<item>
+			<title>Apotheosis (百炼成神) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1815937</guid>
+				<pubDate>Tue, 07 May 2024 17:08:06 -0000</pubDate>
+
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>174</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:b9a54be53d3c2e86d20ce7b1ad8cd578b402c79f</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>234.3 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1815937">#1815937 | Apotheosis (百炼成神) OST [FLAC]</a> | 234.3 MiB | Audio - Lossless | b9a54be53d3c2e86d20ce7b1ad8cd578b402c79f]]></description>
+		</item>
+		<item>
+			<title>The Demon Hunter (沧元图) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1815102</guid>
+				<pubDate>Mon, 06 May 2024 05:26:40 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>7</nyaa:leechers>
+				<nyaa:downloads>184</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a308958351a70fe7e2a51d86bd2fb22f7a13d00c</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>162.6 MiB</nyaa:size>
+			<nyaa:comments>2</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1815102">#1815102 | The Demon Hunter (沧元图) OST [FLAC]</a> | 162.6 MiB | Audio - Lossless | a308958351a70fe7e2a51d86bd2fb22f7a13d00c]]></description>
+		</item>
+		<item>
+			<title>My Senior Brother Is Too Steady (师兄啊师兄) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1812918</guid>
+				<pubDate>Thu, 02 May 2024 01:18:20 -0000</pubDate>
+
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>187</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:c22c364d4e1902dfea67f1eed849ae2a83ca091a</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>81.9 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1812918">#1812918 | My Senior Brother Is Too Steady (师兄啊师兄) OST [FLAC]</a> | 81.9 MiB | Audio - Lossless | c22c364d4e1902dfea67f1eed849ae2a83ca091a]]></description>
+		</item>
+		<item>
+			<title>Shrouding the Heavens (遮天) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1812430</guid>
+				<pubDate>Wed, 01 May 2024 05:36:37 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>192</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:526d58324d9e12bd0c8abd04af1f507222c06c54</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>123.3 MiB</nyaa:size>
+			<nyaa:comments>2</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1812430">#1812430 | Shrouding the Heavens (遮天) OST [FLAC]</a> | 123.3 MiB | Audio - Lossless | 526d58324d9e12bd0c8abd04af1f507222c06c54]]></description>
 		</item>
 		<item>
 			<title>SOLO LEVELING Original Soundtrack (2024) [FLAC] [24B-48kHz] | Ore dake Level Up na Ken | 俺だけレベルアップな件 | I Level Up Alone</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1812424</guid>
 				<pubDate>Wed, 01 May 2024 04:45:15 -0000</pubDate>
 
-				<nyaa:seeders>17</nyaa:seeders>
-				<nyaa:leechers>9</nyaa:leechers>
-				<nyaa:downloads>773</nyaa:downloads>
+				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:leechers>8</nyaa:leechers>
+				<nyaa:downloads>774</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:d0c88b84477d7eaa7c4de9d0fcf25ec9d50dd51c</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -102,1180 +1173,109 @@
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1812424">#1812424 | SOLO LEVELING Original Soundtrack (2024) [FLAC] [24B-48kHz] | Ore dake Level Up na Ken | 俺だけレベルアップな件 | I Level Up Alone</a> | 916.6 MiB | Audio - Lossless | D0C88B84477D7EAA7C4DE9D0FCF25EC9D50DD51C]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1812424">#1812424 | SOLO LEVELING Original Soundtrack (2024) [FLAC] [24B-48kHz] | Ore dake Level Up na Ken | 俺だけレベルアップな件 | I Level Up Alone</a> | 916.6 MiB | Audio - Lossless | d0c88b84477d7eaa7c4de9d0fcf25ec9d50dd51c]]></description>
 		</item>
 		<item>
-			<title>MASHLE Soundtrack Vol.2 (2024) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1807566</guid>
-				<pubDate>Sun, 21 Apr 2024 13:04:00 -0000</pubDate>
-
-				<nyaa:seeders>11</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>401</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:38fbe6b30915e18eba01ef6b9ad98f2d097b6667</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>245.5 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1807566">#1807566 | MASHLE Soundtrack Vol.2 (2024) [FLAC] [16B-44.1kHz]</a> | 245.5 MiB | Audio - Lossless | 38FBE6B30915E18EBA01EF6B9AD98F2D097B6667]]></description>
-		</item>
-		<item>
-			<title>Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments - (2023) [FLAC] [24B-96kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1756973</guid>
-				<pubDate>Sun, 17 Dec 2023 21:23:17 -0000</pubDate>
-
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>622</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:5afe3751c2ac1cffab90c86557e60c131d338e53</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1.5 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1756973">#1756973 | Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments - (2023) [FLAC] [24B-96kHz]</a> | 1.5 GiB | Audio - Lossless | 5AFE3751C2AC1CFFAB90C86557E60C131D338E53]]></description>
-		</item>
-		<item>
-			<title>MASHLE Soundtrack Vol.1 (2023) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1737656</guid>
-				<pubDate>Fri, 03 Nov 2023 02:47:00 -0000</pubDate>
-
-				<nyaa:seeders>14</nyaa:seeders>
-				<nyaa:leechers>16</nyaa:leechers>
-				<nyaa:downloads>632</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:e322f68ac9978c2e1b64a584318216364ab9399b</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>199.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1737656">#1737656 | MASHLE Soundtrack Vol.1 (2023) [FLAC] [16B-44.1kHz]</a> | 199.9 MiB | Audio - Lossless | E322F68AC9978C2E1B64A584318216364AB9399B]]></description>
-		</item>
-		<item>
-			<title>LiSA - crossing field (2012) [FLAC] [16B-44.1kHz] | SAO OP1 | SWORD ART ONLINE OPENING</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1667657</guid>
-				<pubDate>Wed, 03 May 2023 03:03:26 -0000</pubDate>
-
-				<nyaa:seeders>14</nyaa:seeders>
-				<nyaa:leechers>8</nyaa:leechers>
-				<nyaa:downloads>589</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:96859d142907b77bd52e4e20dcad47f85ee8eda9</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>136.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1667657">#1667657 | LiSA - crossing field (2012) [FLAC] [16B-44.1kHz] | SAO OP1 | SWORD ART ONLINE OPENING</a> | 136.2 MiB | Audio - Lossless | 96859D142907B77BD52E4E20DCAD47F85EE8EDA9]]></description>
-		</item>
-		<item>
-			<title>Supercell - Today Is A Beautiful Day (Instrumental) (2011) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1616510</guid>
-				<pubDate>Thu, 22 Dec 2022 00:10:04 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>197</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d1acba8d206b141ccc4d64107a2006dc02270187</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>191.0 MiB</nyaa:size>
-			<nyaa:comments>2</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1616510">#1616510 | Supercell - Today Is A Beautiful Day (Instrumental) (2011) [FLAC] [16B-44.1kHz]</a> | 191.0 MiB | Audio - Lossless | D1ACBA8D206B141CCC4D64107A2006DC02270187]]></description>
-		</item>
-		<item>
-			<title>Supercell - Today Is A Beautiful Day (2011) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1616505</guid>
-				<pubDate>Wed, 21 Dec 2022 23:56:34 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>518</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:172521b70cdba8c9437902a86c9399fdb362a3d2</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>397.7 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1616505">#1616505 | Supercell - Today Is A Beautiful Day (2011) [FLAC] [16B-44.1kHz]</a> | 397.7 MiB | Audio - Lossless | 172521B70CDBA8C9437902A86C9399FDB362A3D2]]></description>
-		</item>
-		<item>
-			<title>KILL la KILL COMPLETE SOUNDTRACK (2019) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615431</guid>
-				<pubDate>Sun, 18 Dec 2022 18:32:55 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>441</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d9453fb219801310a5f6c251ec5759c30c6271aa</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1.2 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615431">#1615431 | KILL la KILL COMPLETE SOUNDTRACK (2019) [FLAC] [16B-44.1kHz]</a> | 1.2 GiB | Audio - Lossless | D9453FB219801310A5F6C251EC5759C30C6271AA]]></description>
-		</item>
-		<item>
-			<title>THE PROMISED NEVERLAND Season 1&amp;2 Original Soundtrack (2021) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615424</guid>
-				<pubDate>Sun, 18 Dec 2022 18:13:13 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>172</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:0397f19077610f8e2fbd30998bf1ccfb4754ca95</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>803.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615424">#1615424 | THE PROMISED NEVERLAND Season 1&amp;2 Original Soundtrack (2021) [FLAC] [16B-44.1kHz]</a> | 803.9 MiB | Audio - Lossless | 0397F19077610F8E2FBD30998BF1CCFB4754CA95]]></description>
-		</item>
-		<item>
-			<title>Number One - Bankai (feat. Hazel Fernandes) ∕ Shiro SAGISU (2022) [FLAC] [24B-96kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615421</guid>
-				<pubDate>Sun, 18 Dec 2022 18:01:18 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>262</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:729772442e25719459950aa5e66a89d4c298914e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>104.1 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615421">#1615421 | Number One - Bankai (feat. Hazel Fernandes) ∕ Shiro SAGISU (2022) [FLAC] [24B-96kHz]</a> | 104.1 MiB | Audio - Lossless | 729772442E25719459950AA5E66A89D4C298914E]]></description>
-		</item>
-		<item>
-			<title>Kirara Hoshino (CV꞉Ai Kakuma) - Lost emotion (2020) [FLAC] [24B-48kHz] | TV Anime &#34;Dokyuu Hentai HXEROS&#34; Ending Theme</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615047</guid>
-				<pubDate>Sun, 18 Dec 2022 06:23:32 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>133</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:00b3413a340fe077cea07d599081317783fecd9f</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>153.8 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615047">#1615047 | Kirara Hoshino (CV꞉Ai Kakuma) - Lost emotion (2020) [FLAC] [24B-48kHz] | TV Anime &#34;Dokyuu Hentai HXEROS&#34; Ending Theme</a> | 153.8 MiB | Audio - Lossless | 00B3413A340FE077CEA07D599081317783FECD9F]]></description>
-		</item>
-		<item>
-			<title>RANKING OF KINGS Original Soundtrack (2022) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615044</guid>
-				<pubDate>Sun, 18 Dec 2022 06:06:38 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>9</nyaa:leechers>
-				<nyaa:downloads>227</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:eeb975220ea40c7b13c6c0383885fc814be33a70</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>808.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615044">#1615044 | RANKING OF KINGS Original Soundtrack (2022) [FLAC] [16B-44.1kHz]</a> | 808.3 MiB | Audio - Lossless | EEB975220EA40C7B13C6C0383885FC814BE33A70]]></description>
-		</item>
-		<item>
-			<title>EIGHTY-SIX ORIGINAL SOUNDTRACK (2021) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1615038</guid>
-				<pubDate>Sun, 18 Dec 2022 05:27:25 -0000</pubDate>
-
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>5</nyaa:leechers>
-				<nyaa:downloads>550</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:a864ba502db630c5e97f22090b816a12b3ffc1eb</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>852.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1615038">#1615038 | EIGHTY-SIX ORIGINAL SOUNDTRACK (2021) [FLAC] [16B-44.1kHz]</a> | 852.3 MiB | Audio - Lossless | A864BA502DB630C5E97F22090B816A12B3FFC1EB]]></description>
-		</item>
-		<item>
-			<title>Tia - Ryuusei (2004) [FLAC] [16B-44.1kHz] | Naruto ED6</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1613469</guid>
-				<pubDate>Tue, 13 Dec 2022 19:34:13 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>140</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:23a24c037bf95416d454355efe89406999cfae23</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>67.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1613469">#1613469 | Tia - Ryuusei (2004) [FLAC] [16B-44.1kHz] | Naruto ED6</a> | 67.6 MiB | Audio - Lossless | 23A24C037BF95416D454355EFE89406999CFAE23]]></description>
-		</item>
-		<item>
-			<title>Re꞉CREATORS (Original Soundtrack) (2017) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1591842</guid>
-				<pubDate>Mon, 17 Oct 2022 20:35:20 -0000</pubDate>
-
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>329</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:502b8a292a3081af764cc09c42aefc9bdffe356e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>816.2 MiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1591842">#1591842 | Re꞉CREATORS (Original Soundtrack) (2017) [FLAC] [16B-44.1kHz]</a> | 816.2 MiB | Audio - Lossless | 502B8A292A3081AF764CC09C42AEFC9BDFFE356E]]></description>
-		</item>
-		<item>
-			<title>GUILTY CROWN (COMPLETE SOUNDTRACK) (2016) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1591841</guid>
-				<pubDate>Mon, 17 Oct 2022 20:33:37 -0000</pubDate>
-
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>304</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:e15fc2d5ce2726bc2a69eb30dd574aa7bb39e26e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>977.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1591841">#1591841 | GUILTY CROWN (COMPLETE SOUNDTRACK) (2016) [FLAC] [16B-44.1kHz]</a> | 977.3 MiB | Audio - Lossless | E15FC2D5CE2726BC2A69EB30DD574AA7BB39E26E]]></description>
-		</item>
-		<item>
-			<title>GUILTY CROWN ORIGINAL SOUNDTRACK (2012) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1591840</guid>
-				<pubDate>Mon, 17 Oct 2022 20:32:34 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>193</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:86a0ef8195fb54f5ffb20fb6881836374e60c230</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>489.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1591840">#1591840 | GUILTY CROWN ORIGINAL SOUNDTRACK (2012) [FLAC] [16B-44.1kHz]</a> | 489.9 MiB | Audio - Lossless | 86A0EF8195FB54F5FFB20FB6881836374E60C230]]></description>
-		</item>
-		<item>
-			<title>Lisa - Catch the Moment (2017) [FLAC] [24B-96kHz] | Sword Art Online Movie -Ordinal Scale- Theme Song</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1590476</guid>
-				<pubDate>Sat, 15 Oct 2022 06:17:22 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>420</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:35a41d05058d3f1006379c2427a43e5618ee2dc8</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>309.0 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1590476">#1590476 | Lisa - Catch the Moment (2017) [FLAC] [24B-96kHz] | Sword Art Online Movie -Ordinal Scale- Theme Song</a> | 309.0 MiB | Audio - Lossless | 35A41D05058D3F1006379C2427A43E5618EE2DC8]]></description>
-		</item>
-		<item>
-			<title>[2022.08.14] Risa Yuzuki feat.tokiwa - Time Filament [FLAC 48kHz／24bit]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1588585</guid>
-				<pubDate>Sun, 09 Oct 2022 22:46:34 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>161</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:7f8d41e34cc6f77886a9cd859c61246caaa03fab</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>47.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1588585">#1588585 | [2022.08.14] Risa Yuzuki feat.tokiwa - Time Filament [FLAC 48kHz／24bit]</a> | 47.9 MiB | Audio - Lossless | 7F8D41E34CC6F77886A9CD859C61246CAAA03FAB]]></description>
-		</item>
-		<item>
-			<title>[2022.09.04] TVアニメ「黒の召喚士」EDテーマ「Wherever (Remix)」／鈴木みのり [FLAC 96kHz／24bit]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1588579</guid>
-				<pubDate>Sun, 09 Oct 2022 22:37:14 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>389</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:55c0d63f6e84e12e4b1e762e70bb2a874b762aac</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>67.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1588579">#1588579 | [2022.09.04] TVアニメ「黒の召喚士」EDテーマ「Wherever (Remix)」／鈴木みのり [FLAC 96kHz／24bit]</a> | 67.2 MiB | Audio - Lossless | 55C0D63F6E84E12E4B1E762E70BB2A874B762AAC]]></description>
-		</item>
-		<item>
-			<title>Fate ∕ stay night [Unlimited Blade Works] Original Soundtrack (2020) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1588146</guid>
-				<pubDate>Sun, 09 Oct 2022 01:46:05 -0000</pubDate>
-
-				<nyaa:seeders>11</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>538</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:a2ac08d439f35b6e3f1f97d5bc1e4e24c3bb1c5f</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1014.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1588146">#1588146 | Fate ∕ stay night [Unlimited Blade Works] Original Soundtrack (2020) [FLAC] [16B-44.1kHz]</a> | 1014.6 MiB | Audio - Lossless | A2AC08D439F35B6E3F1F97D5BC1E4E24C3BB1C5F]]></description>
-		</item>
-		<item>
-			<title>Fate ∕ Apocrypha Original Soundtrack (2021) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1588133</guid>
-				<pubDate>Sun, 09 Oct 2022 01:17:58 -0000</pubDate>
-
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>440</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:2d561516e305c038fa0eef1ee20cd3ef7d9f74ab</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>641.3 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1588133">#1588133 | Fate ∕ Apocrypha Original Soundtrack (2021) [FLAC] [16B-44.1kHz]</a> | 641.3 MiB | Audio - Lossless | 2D561516E305C038FA0EEF1EE20CD3EF7D9F74AB]]></description>
-		</item>
-		<item>
-			<title>Lisa - Gurenge (2019) [FLAC] [24B-48kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1588126</guid>
-				<pubDate>Sun, 09 Oct 2022 01:00:08 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>381</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:1f2134586bc3db0c6fe34365921b05be0f1d91ea</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>52.8 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1588126">#1588126 | Lisa - Gurenge (2019) [FLAC] [24B-48kHz]</a> | 52.8 MiB | Audio - Lossless | 1F2134586BC3DB0C6FE34365921B05BE0F1D91EA]]></description>
-		</item>
-		<item>
-			<title>The Case Study of Vanitas Original Soundtrack (2022) [FLAC] [24B-48kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1586025</guid>
-				<pubDate>Mon, 03 Oct 2022 16:48:59 -0000</pubDate>
-
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>212</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d38a4ba357c55266c6ee46e5d2b518ec121f9fec</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1.3 GiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1586025">#1586025 | The Case Study of Vanitas Original Soundtrack (2022) [FLAC] [24B-48kHz]</a> | 1.3 GiB | Audio - Lossless | D38A4BA357C55266C6EE46E5D2B518EC121F9FEC]]></description>
-		</item>
-		<item>
-			<title>Hiroyuki Sawano - scene (2021) [FLAC] [24B-96kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585913</guid>
-				<pubDate>Mon, 03 Oct 2022 06:30:31 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>593</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:ccf7f7850d05ffeadabe1045bdb678855efd51eb</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1.3 GiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585913">#1585913 | Hiroyuki Sawano - scene (2021) [FLAC] [24B-96kHz]</a> | 1.3 GiB | Audio - Lossless | CCF7F7850D05FFEADABE1045BDB678855EFD51EB]]></description>
-		</item>
-		<item>
-			<title>Fate ∕ Zero Original Soundtrack (2017) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585901</guid>
-				<pubDate>Mon, 03 Oct 2022 05:30:02 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>432</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:7821f604ae5ecd330be0a92be21369986dcc244a</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>852.5 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585901">#1585901 | Fate ∕ Zero Original Soundtrack (2017) [FLAC] [16B-44.1kHz]</a> | 852.5 MiB | Audio - Lossless | 7821F604AE5ECD330BE0A92BE21369986DCC244A]]></description>
-		</item>
-		<item>
-			<title>The Honour at Magic High School (Original Soundtrack) (2021) [FLAC] [24B-48kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585882</guid>
-				<pubDate>Mon, 03 Oct 2022 04:38:30 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>160</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d210fdd51a17603688aab4170d73b33c25010912</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>1.2 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585882">#1585882 | The Honour at Magic High School (Original Soundtrack) (2021) [FLAC] [24B-48kHz]</a> | 1.2 GiB | Audio - Lossless | D210FDD51A17603688AAB4170D73B33C25010912]]></description>
-		</item>
-		<item>
-			<title>The Irregular at Magic High School Visitor Arc (Original Soundtrack) (2020) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585881</guid>
-				<pubDate>Mon, 03 Oct 2022 04:38:28 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>16</nyaa:leechers>
-				<nyaa:downloads>196</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:9fe86bc676b4184db2a19c447b6441af4fedbdd6</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>388.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585881">#1585881 | The Irregular at Magic High School Visitor Arc (Original Soundtrack) (2020) [FLAC] [16B-44.1kHz]</a> | 388.9 MiB | Audio - Lossless | 9FE86BC676B4184DB2A19C447B6441AF4FEDBDD6]]></description>
-		</item>
-		<item>
-			<title>The Irregular at Magic High School THE MOVIE - The Girl Who Summons The Stars (Original Soundtrack) (2018) [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585880</guid>
-				<pubDate>Mon, 03 Oct 2022 04:38:26 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>184</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:22fd3df860f940851fbf7e9aa43d6f21ddf59cfb</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>263.0 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585880">#1585880 | The Irregular at Magic High School THE MOVIE - The Girl Who Summons The Stars (Original Soundtrack) (2018) [16B-44.1kHz]</a> | 263.0 MiB | Audio - Lossless | 22FD3DF860F940851FBF7E9AA43D6F21DDF59CFB]]></description>
-		</item>
-		<item>
-			<title>The Irregular at Magic High School (Original Soundtrack 2) (2014) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585879</guid>
-				<pubDate>Mon, 03 Oct 2022 04:38:25 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>218</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:77a5d41a03ace61bbd349486643d6e84ba877c73</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>425.8 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585879">#1585879 | The Irregular at Magic High School (Original Soundtrack 2) (2014) [FLAC] [16B-44.1kHz]</a> | 425.8 MiB | Audio - Lossless | 77A5D41A03ACE61BBD349486643D6E84BA877C73]]></description>
-		</item>
-		<item>
-			<title>The Irregular at Magic High School (Original Soundtrack 1) (2014) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585878</guid>
-				<pubDate>Mon, 03 Oct 2022 04:38:23 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>219</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:27a7cf7b6a94ec9af0bfa80925600ff189b79122</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>409.7 MiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585878">#1585878 | The Irregular at Magic High School (Original Soundtrack 1) (2014) [FLAC] [16B-44.1kHz]</a> | 409.7 MiB | Audio - Lossless | 27A7CF7B6A94EC9AF0BFA80925600FF189B79122]]></description>
-		</item>
-		<item>
-			<title>BORUTO NARUTO NEXT GENERATIONS ORIGINAL SOUNDTRACK 2 (2018) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585860</guid>
-				<pubDate>Mon, 03 Oct 2022 00:38:56 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>200</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:627892cc9f24173969f22737eff517285dff5e12</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>342.0 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585860">#1585860 | BORUTO NARUTO NEXT GENERATIONS ORIGINAL SOUNDTRACK 2 (2018) [FLAC] [16B-44.1kHz]</a> | 342.0 MiB | Audio - Lossless | 627892CC9F24173969F22737EFF517285DFF5E12]]></description>
-		</item>
-		<item>
-			<title>BORUTO NARUTO NEXT GENERATIONS ORIGINAL SOUNDTRACK 1 (2017) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585859</guid>
-				<pubDate>Mon, 03 Oct 2022 00:38:54 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>194</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:cb08633d374e6965334691117c2395da9d7cf52a</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>379.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585859">#1585859 | BORUTO NARUTO NEXT GENERATIONS ORIGINAL SOUNDTRACK 1 (2017) [FLAC] [16B-44.1kHz]</a> | 379.9 MiB | Audio - Lossless | CB08633D374E6965334691117C2395DA9D7CF52A]]></description>
-		</item>
-		<item>
-			<title>BORUTO NARUTO THE MOVIE ORIGINAL SOUNDTRACK (2015) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1585857</guid>
-				<pubDate>Mon, 03 Oct 2022 00:38:26 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>184</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:6665641bbeb67d0ac144dacb4ef42228610048f4</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>327.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1585857">#1585857 | BORUTO NARUTO THE MOVIE ORIGINAL SOUNDTRACK (2015) [FLAC] [16B-44.1kHz]</a> | 327.9 MiB | Audio - Lossless | 6665641BBEB67D0AC144DACB4EF42228610048F4]]></description>
-		</item>
-		<item>
-			<title>Naruto Complete OST (2003-2016) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1584581</guid>
-				<pubDate>Fri, 30 Sep 2022 06:18:04 -0000</pubDate>
-
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>9</nyaa:leechers>
-				<nyaa:downloads>948</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:a9fd06e2c35ae50ce7b1e45c42e0d842c113793e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>5.1 GiB</nyaa:size>
-			<nyaa:comments>5</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1584581">#1584581 | Naruto Complete OST (2003-2016) [FLAC] [16B-44.1kHz]</a> | 5.1 GiB | Audio - Lossless | A9FD06E2C35AE50CE7B1E45C42E0D842C113793E]]></description>
-		</item>
-		<item>
-			<title>THE LAST NARUTO THE MOVIE ORIGINAL SOUNDTRACK (2014) [FLAC] [16B-44.1kHz]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583886</guid>
-				<pubDate>Tue, 27 Sep 2022 22:22:01 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>176</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:14314118c7da6f2f748c6462b2821422f30628f9</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>384.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583886">#1583886 | THE LAST NARUTO THE MOVIE ORIGINAL SOUNDTRACK (2014) [FLAC] [16B-44.1kHz]</a> | 384.6 MiB | Audio - Lossless | 14314118C7DA6F2F748C6462B2821422F30628F9]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 6 - ROAD TO NINJA ORIGINAL SOUNDTRACK (2012) [FLAC] [16B-44.1kHz] | ROAD TO NINJA NARUTO THE MOVIE ORIGINAL SOUNDTRACK</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583885</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:57 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>178</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:ee9436452de6442e8e76b53eb90a9fb7dccf842c</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>358.5 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583885">#1583885 | NARUTO SHIPPUDEN THE MOVIE 6 - ROAD TO NINJA ORIGINAL SOUNDTRACK (2012) [FLAC] [16B-44.1kHz] | ROAD TO NINJA NARUTO THE MOVIE ORIGINAL SOUNDTRACK</a> | 358.5 MiB | Audio - Lossless | EE9436452DE6442E8E76B53EB90A9FB7DCCF842C]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 5 - BLOOD PRISON ORIGINAL SOUNDTRACK (2011) [FLAC] [16B-44.1kHz] | 劇場版NARUTO -ナルト- ブラッド・プリズン オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583884</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:56 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>182</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:6b0a669f3246ab0c5da30206c160d8b26cd3f85d</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>299.6 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583884">#1583884 | NARUTO SHIPPUDEN THE MOVIE 5 - BLOOD PRISON ORIGINAL SOUNDTRACK (2011) [FLAC] [16B-44.1kHz] | 劇場版NARUTO -ナルト- ブラッド・プリズン オリジナルサウンドトラック</a> | 299.6 MiB | Audio - Lossless | 6B0A669F3246AB0C5DA30206C160D8B26CD3F85D]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 4 - THE LOST TOWER ORIGINAL SOUNDTRACK (2010) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden The Lost Tower Original Soundtrack | 劇場版NARUTO -ナルト-疾風伝 ザ・ロストタワーオリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583883</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:54 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>177</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:8e197d156af27eb0ef0220839eb9355936c10336</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>269.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583883">#1583883 | NARUTO SHIPPUDEN THE MOVIE 4 - THE LOST TOWER ORIGINAL SOUNDTRACK (2010) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden The Lost Tower Original Soundtrack | 劇場版NARUTO -ナルト-疾風伝 ザ・ロストタワーオリジナルサウンドトラック</a> | 269.2 MiB | Audio - Lossless | 8E197D156AF27EB0EF0220839EB9355936C10336]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 3 - THE WILL OF FIRE ORIGINAL SOUNDTRACK (2009) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Hi no Ishi wo Tsugu Mono Original Soundtrack | 劇場版NARUTO -ナルト- 疾風伝 火の意志を継ぐ者 オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583882</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:47 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>185</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:c533be1ffc1e640c48ae43f6b5064ba2f565f2e7</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>313.8 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583882">#1583882 | NARUTO SHIPPUDEN THE MOVIE 3 - THE WILL OF FIRE ORIGINAL SOUNDTRACK (2009) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Hi no Ishi wo Tsugu Mono Original Soundtrack | 劇場版NARUTO -ナルト- 疾風伝 火の意志を継ぐ者 オリジナルサウンドトラック</a> | 313.8 MiB | Audio - Lossless | C533BE1FFC1E640C48AE43F6B5064BA2F565F2E7]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 2 - BONDS ORIGINAL SOUNDTRACK (2008) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Kizuna Original Soundtrack | 劇場版NARUTO -ナルト- 疾風伝 絆 オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583881</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:44 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>181</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:7cc50def34ac3e442bc67ef7733c943212c2a722</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>289.1 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583881">#1583881 | NARUTO SHIPPUDEN THE MOVIE 2 - BONDS ORIGINAL SOUNDTRACK (2008) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Kizuna Original Soundtrack | 劇場版NARUTO -ナルト- 疾風伝 絆 オリジナルサウンドトラック</a> | 289.1 MiB | Audio - Lossless | 7CC50DEF34AC3E442BC67EF7733C943212C2A722]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN THE MOVIE 1 - ORIGINAL SOUNDTRACK (2007) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Original Soundtrack | 劇場版 NARUTO -ナルト- 疾風伝 オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583880</guid>
-				<pubDate>Tue, 27 Sep 2022 22:21:30 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>177</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:a3ea075b6d2665a18191b0211240c83caf999286</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>429.5 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583880">#1583880 | NARUTO SHIPPUDEN THE MOVIE 1 - ORIGINAL SOUNDTRACK (2007) [FLAC] [16B-44.1kHz] | Gekijouban Naruto Shippuden Original Soundtrack | 劇場版 NARUTO -ナルト- 疾風伝 オリジナルサウンドトラック</a> | 429.5 MiB | Audio - Lossless | A3EA075B6D2665A18191B0211240C83CAF999286]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK 3 (2016) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック III</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583871</guid>
-				<pubDate>Tue, 27 Sep 2022 21:22:31 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>299</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:5daaa2b7a28da6755aaa9562496f7774659a5118</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>398.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583871">#1583871 | NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK 3 (2016) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック III</a> | 398.2 MiB | Audio - Lossless | 5DAAA2B7A28DA6755AAA9562496F7774659A5118]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK 2 (2009) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック Ⅱ</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583870</guid>
-				<pubDate>Tue, 27 Sep 2022 21:22:29 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>281</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:793b988c5c62c5cb4a46899edfac1ca4b953e2ba</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>392.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583870">#1583870 | NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK 2 (2009) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック Ⅱ</a> | 392.9 MiB | Audio - Lossless | 793B988C5C62C5CB4A46899EDFAC1CA4B953E2BA]]></description>
-		</item>
-		<item>
-			<title>NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK (2007) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583869</guid>
-				<pubDate>Tue, 27 Sep 2022 21:22:27 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>310</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:4847b7aff1bc556e00e9161ca0024cdc90d20547</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>408.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583869">#1583869 | NARUTO SHIPPUDEN ORIGINAL SOUNDTRACK (2007) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- 疾風伝 オリジナル・サウンドトラック</a> | 408.9 MiB | Audio - Lossless | 4847B7AFF1BC556E00E9161CA0024CDC90D20547]]></description>
-		</item>
-		<item>
-			<title>NARUTO THE MOVIE 3 - GUARDIANS OF THE CRESCENT MOON KINGDOM ORIGINAL SOUNDTRACK (2006) [FLAC] [16B-44.1kHz] | Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo! | 劇場版 NARUTO -ナルト- 大興奮! みかづき島のアニマル騒動だってばよ オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583858</guid>
-				<pubDate>Tue, 27 Sep 2022 20:45:41 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>184</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:9b7855e447ee6a7692f2866d4f6e202832fe56c9</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>277.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583858">#1583858 | NARUTO THE MOVIE 3 - GUARDIANS OF THE CRESCENT MOON KINGDOM ORIGINAL SOUNDTRACK (2006) [FLAC] [16B-44.1kHz] | Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo! | 劇場版 NARUTO -ナルト- 大興奮! みかづき島のアニマル騒動だってばよ オリジナルサウンドトラック</a> | 277.2 MiB | Audio - Lossless | 9B7855E447EE6A7692F2866D4F6E202832FE56C9]]></description>
-		</item>
-		<item>
-			<title>NARUTO THE MOVIE 2 - LEGEND OF THE STONE OF GELEL ORIGINAL SOUNDTRACK (2005) [FLAC] [16B-44.1kHz] | Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo! | 劇場版 NARUTO -ナルト- 大激突! 幻の地底遺跡だってばよ オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583857</guid>
-				<pubDate>Tue, 27 Sep 2022 20:45:39 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>179</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:3e14c24b8e330bb338dbd69fc78b7c819a6b64fb</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>371.9 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583857">#1583857 | NARUTO THE MOVIE 2 - LEGEND OF THE STONE OF GELEL ORIGINAL SOUNDTRACK (2005) [FLAC] [16B-44.1kHz] | Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo! | 劇場版 NARUTO -ナルト- 大激突! 幻の地底遺跡だってばよ オリジナルサウンドトラック</a> | 371.9 MiB | Audio - Lossless | 3E14C24B8E330BB338DBD69FC78B7C819A6B64FB]]></description>
-		</item>
-		<item>
-			<title>NARUTO THE MOVIE 1 - NINJA CLASH IN THE LAND OF SNOW ORIGINAL SOUNDTRACK (2004) [FLAC] [16B-44.1kHz] | Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! | 劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!! 木ノ葉の里の大うん動会 オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583856</guid>
-				<pubDate>Tue, 27 Sep 2022 20:45:36 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>189</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:bc2260e1e43ec0f170d78eeb6911f8f1afa3cf2e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>189.4 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583856">#1583856 | NARUTO THE MOVIE 1 - NINJA CLASH IN THE LAND OF SNOW ORIGINAL SOUNDTRACK (2004) [FLAC] [16B-44.1kHz] | Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! | 劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!! 木ノ葉の里の大うん動会 オリジナルサウンドトラック</a> | 189.4 MiB | Audio - Lossless | BC2260E1E43EC0F170D78EEB6911F8F1AFA3CF2E]]></description>
-		</item>
-		<item>
-			<title>NARUTO ORIGINAL SOUNDTRACK 3 (2005) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック Ⅲ</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583480</guid>
-				<pubDate>Mon, 26 Sep 2022 18:37:30 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>249</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d328871e983833db317c02b482f4ddf6d06b17f3</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>364.7 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583480">#1583480 | NARUTO ORIGINAL SOUNDTRACK 3 (2005) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック Ⅲ</a> | 364.7 MiB | Audio - Lossless | D328871E983833DB317C02B482F4DDF6D06B17F3]]></description>
-		</item>
-		<item>
-			<title>NARUTO ORIGINAL SOUNDTRACK 2 (2004) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック Ⅱ</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583479</guid>
-				<pubDate>Mon, 26 Sep 2022 18:37:28 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>229</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:9ba00ff9bfcb1fe0dc5a5da0c39d9c5b16cedee6</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>222.2 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583479">#1583479 | NARUTO ORIGINAL SOUNDTRACK 2 (2004) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック Ⅱ</a> | 222.2 MiB | Audio - Lossless | 9BA00FF9BFCB1FE0DC5A5DA0C39D9C5B16CEDEE6]]></description>
-		</item>
-		<item>
-			<title>NARUTO ORIGINAL SOUNDTRACK (2003) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583478</guid>
-				<pubDate>Mon, 26 Sep 2022 18:37:26 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>239</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:64e95849bffd0933b6bc33ff94a5a90ef258675b</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>257.1 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583478">#1583478 | NARUTO ORIGINAL SOUNDTRACK (2003) [FLAC] [16B-44.1kHz] | NARUTO -ナルト- オリジナルサウンドトラック</a> | 257.1 MiB | Audio - Lossless | 64E95849BFFD0933B6BC33FF94A5A90EF258675B]]></description>
-		</item>
-		<item>
-			<title>My Dress-Up Darling Original Soundtrack VOL.2 (2022) [FLAC] [16B-44.1kHz] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583280</guid>
-				<pubDate>Mon, 26 Sep 2022 05:23:40 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>451</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:51f40adf24b0ed0fe84fa4076244b0c313424ec3</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>250.7 MiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583280">#1583280 | My Dress-Up Darling Original Soundtrack VOL.2 (2022) [FLAC] [16B-44.1kHz] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</a> | 250.7 MiB | Audio - Lossless | 51F40ADF24B0ED0FE84FA4076244B0C313424EC3]]></description>
-		</item>
-		<item>
-			<title>My Dress-Up Darling Original Soundtrack VOL.1 (2022) [FLAC] [16B-44.1kHz] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1583279</guid>
-				<pubDate>Mon, 26 Sep 2022 05:23:37 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>454</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:4a96301bf679f7d7107552205d240047188aa13e</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>232.9 MiB</nyaa:size>
-			<nyaa:comments>2</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1583279">#1583279 | My Dress-Up Darling Original Soundtrack VOL.1 (2022) [FLAC] [16B-44.1kHz] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</a> | 232.9 MiB | Audio - Lossless | 4A96301BF679F7D7107552205D240047188AA13E]]></description>
-		</item>
-		<item>
-			<title>[2022.03.23] My Dress-Up Darling Original Soundtrack - 13. I Want to Help (Custom Cut) [FLAC] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1505622</guid>
-				<pubDate>Wed, 23 Mar 2022 02:07:49 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>254</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:1404bd3bec3c52cdcfe83ccab25d8f93b26cfbbe</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>6.1 MiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1505622">#1505622 | [2022.03.23] My Dress-Up Darling Original Soundtrack - 13. I Want to Help (Custom Cut) [FLAC] | Sono Bisque Doll wa Koi wo Suru Original Soundtrack</a> | 6.1 MiB | Audio - Lossless | 1404BD3BEC3C52CDCFE83CCAB25D8F93B26CFBBE]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Masou Gakuen HxH - 09 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1495615</guid>
-				<pubDate>Sat, 26 Feb 2022 04:57:08 -0000</pubDate>
-
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>273</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:9435a6bf6f39907ea4c2b21c40f81e8b8f6f8f46</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>2.7 GiB</nyaa:size>
-			<nyaa:comments>2</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1495615">#1495615 | [UNBIASED] Masou Gakuen HxH - 09 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</a> | 2.7 GiB | Anime - English-translated | 9435A6BF6F39907EA4C2B21C40F81E8B8F6F8F46]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Masou Gakuen HxH - 08 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1495087</guid>
-				<pubDate>Thu, 24 Feb 2022 18:49:11 -0000</pubDate>
-
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>226</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:e58612527710e31137111b0c1fbf27671e055511</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>2.9 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1495087">#1495087 | [UNBIASED] Masou Gakuen HxH - 08 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</a> | 2.9 GiB | Anime - English-translated | E58612527710E31137111B0C1FBF27671E055511]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] [2018.01.10] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Music Collection [FLAC] | Classroom of the Elite Music Collection | TVアニメ ようこそ実力至上主義の教室へ 音楽集</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1494760</guid>
-				<pubDate>Wed, 23 Feb 2022 19:04:58 -0000</pubDate>
-
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>421</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:d77a1fa2ee9aeee1ad621f8f140344902986dc31</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>508.8 MiB</nyaa:size>
-			<nyaa:comments>2</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1494760">#1494760 | [UNBIASED] [2018.01.10] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Music Collection [FLAC] | Classroom of the Elite Music Collection | TVアニメ ようこそ実力至上主義の教室へ 音楽集</a> | 508.8 MiB | Audio - Lossless | D77A1FA2EE9AEEE1AD621F8F140344902986DC31]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Masou Gakuen HxH - 07 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1493673</guid>
-				<pubDate>Sun, 20 Feb 2022 19:57:41 -0000</pubDate>
-
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>292</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:49b79ad77c52920faca1ebe5d21f68469649276c</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>2.4 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1493673">#1493673 | [UNBIASED] Masou Gakuen HxH - 07 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</a> | 2.4 GiB | Anime - English-translated | 49B79AD77C52920FACA1EBE5D21F68469649276C]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Masou Gakuen HxH - 06 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1493654</guid>
-				<pubDate>Sun, 20 Feb 2022 18:20:01 -0000</pubDate>
-
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>234</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:ca5d33acb39fb10be0feb65e424c3bc90fb87ab0</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>2.2 GiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1493654">#1493654 | [UNBIASED] Masou Gakuen HxH - 06 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</a> | 2.2 GiB | Anime - English-translated | CA5D33ACB39FB10BE0FEB65E424C3BC90FB87AB0]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Masou Gakuen HxH - Vol 1 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1493235</guid>
-				<pubDate>Sun, 20 Feb 2022 03:40:25 -0000</pubDate>
-
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>326</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:c1e961bfb31e43495079af1cbd207736361e36a8</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>10.7 GiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1493235">#1493235 | [UNBIASED] Masou Gakuen HxH - Vol 1 [BDRip 1920x1080 x264 FLAC] (Uncensored) | Hybrid x Heart Magias Academy Ataraxia</a> | 10.7 GiB | Anime - English-translated | C1E961BFB31E43495079AF1CBD207736361E36A8]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] [2014.12.24] KISEIJU ORIGINAL SOUNDTRACK [FLAC] | Parasyte -the maxim- Original Soundtrack | Kiseijuu Sei no Kakuritsu Original Soundtrack | 寄生獣 セイの格率 オリジナル・サウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1483224</guid>
-				<pubDate>Thu, 27 Jan 2022 08:17:25 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>9</nyaa:leechers>
-				<nyaa:downloads>272</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:79c1ecf390f7aad5bfd9855fb278619b460c8088</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>578.0 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1483224">#1483224 | [UNBIASED] [2014.12.24] KISEIJU ORIGINAL SOUNDTRACK [FLAC] | Parasyte -the maxim- Original Soundtrack | Kiseijuu Sei no Kakuritsu Original Soundtrack | 寄生獣 セイの格率 オリジナル・サウンドトラック</a> | 578.0 MiB | Audio - Lossless | 79C1ECF390F7AAD5BFD9855FB278619B460C8088]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] [2015.07.22] TV ANIMATION KISEIJU SPECIAL SOUNDTRACK CD [FLAC] | Parasyte -the maxim- Special Soundtrack CD | Kiseijuu Sei no Kakuritsu Bonus Original Soundtrack | 寄生獣 セイの格率 特典オリジナルサウンドトラック</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1483221</guid>
-				<pubDate>Thu, 27 Jan 2022 08:05:58 -0000</pubDate>
+			<title>The Girl Downstairs (爱上她的理由) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1811805</guid>
+				<pubDate>Mon, 29 Apr 2024 16:41:20 -0000</pubDate>
 
 				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>316</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:6e48cbc20ddbbe070fbc0ca4dffa8be014ffe446</link>
+				<nyaa:downloads>233</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:7fde9f60bef9022f781b5feb0fe1748c2f62e274</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>200.4 MiB</nyaa:size>
+			<nyaa:size>307.8 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1483221">#1483221 | [UNBIASED] [2015.07.22] TV ANIMATION KISEIJU SPECIAL SOUNDTRACK CD [FLAC] | Parasyte -the maxim- Special Soundtrack CD | Kiseijuu Sei no Kakuritsu Bonus Original Soundtrack | 寄生獣 セイの格率 特典オリジナルサウンドトラック</a> | 200.4 MiB | Audio - Lossless | 6E48CBC20DDBBE070FBC0CA4DFFA8BE014FFE446]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1811805">#1811805 | The Girl Downstairs (爱上她的理由) OST [FLAC]</a> | 307.8 MiB | Audio - Lossless | 7fde9f60bef9022f781b5feb0fe1748c2f62e274]]></description>
 		</item>
 		<item>
-			<title>[UNBIASED] Seirei Tsukai no Blade Dance OST (2015) [FLAC] | Blade Dance of Elementalers OST</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1479637</guid>
-				<pubDate>Wed, 19 Jan 2022 00:08:00 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>151</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:779be59c518eb9b7a181e8324f8e11b734251376</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>394.7 MiB</nyaa:size>
-			<nyaa:comments>1</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1479637">#1479637 | [UNBIASED] Seirei Tsukai no Blade Dance OST (2015) [FLAC] | Blade Dance of Elementalers OST</a> | 394.7 MiB | Audio - Lossless | 779BE59C518EB9B7A181E8324F8E11B734251376]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Elfen Lied - 03 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1476561</guid>
-				<pubDate>Wed, 12 Jan 2022 00:53:53 -0000</pubDate>
-
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>359</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:2f2e42f1b696989f0a79634c494d1dd0d564c696</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>1.1 GiB</nyaa:size>
-			<nyaa:comments>6</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1476561">#1476561 | [UNBIASED] Elfen Lied - 03 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</a> | 1.1 GiB | Anime - English-translated | 2F2E42F1B696989F0A79634C494D1DD0D564C696]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Elfen Lied - 02 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1476548</guid>
-				<pubDate>Tue, 11 Jan 2022 23:15:20 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>375</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:5aabb3f6ba216a75a3cd40b6b055c98c8947a67c</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>1.6 GiB</nyaa:size>
-			<nyaa:comments>70</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1476548">#1476548 | [UNBIASED] Elfen Lied - 02 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</a> | 1.6 GiB | Anime - English-translated | 5AABB3F6BA216A75A3CD40B6B055C98C8947A67C]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] Elfen Lied - 01 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1476532</guid>
-				<pubDate>Tue, 11 Jan 2022 22:16:03 -0000</pubDate>
+			<title>Love Between Fairy and Devil (苍兰诀) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1811775</guid>
+				<pubDate>Mon, 29 Apr 2024 16:22:43 -0000</pubDate>
 
 				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>426</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:14e0b62feaba2feec2bd2363e76d1c642e8f2e4b</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>1.3 GiB</nyaa:size>
-			<nyaa:comments>14</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1476532">#1476532 | [UNBIASED] Elfen Lied - 01 [BDRip 1920x1080 HEVC DTS-HD MA FLAC] (Uncensored) [Dual-Audio]</a> | 1.3 GiB | Anime - English-translated | 14E0B62FEABA2FEEC2BD2363E76D1C642E8F2E4B]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] [2016.08.24] Sakamoto desu ga - Original Soundtrack CD [FLAC] | Haven&#39;t You Heard? I&#39;m Sakamoto. Original Soundtrack CD | 坂本ですが? オリジナルサウンドトラック CD</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1476195</guid>
-				<pubDate>Tue, 11 Jan 2022 00:45:44 -0000</pubDate>
-
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>206</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:c042bb30adf85e7de734e2f179f6ee00a18ff354</link>
+				<nyaa:downloads>188</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:a37fa9b8ec4869202bc9ca1ca5c7f33956074795</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>414.1 MiB</nyaa:size>
+			<nyaa:size>187.6 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1476195">#1476195 | [UNBIASED] [2016.08.24] Sakamoto desu ga - Original Soundtrack CD [FLAC] | Haven&#39;t You Heard? I&#39;m Sakamoto. Original Soundtrack CD | 坂本ですが? オリジナルサウンドトラック CD</a> | 414.1 MiB | Audio - Lossless | C042BB30ADF85E7DE734E2F179F6EE00A18FF354]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1811775">#1811775 | Love Between Fairy and Devil (苍兰诀) OST [FLAC]</a> | 187.6 MiB | Audio - Lossless | a37fa9b8ec4869202bc9ca1ca5c7f33956074795]]></description>
 		</item>
 		<item>
-			<title>[UNBIASED] [2015.01.28] TVアニメ「銃皇無尽のファフニール(Juuou Mujin no Fafnir)」EDテーマ「Ray of bullet」／イリス・フレイア(CV.日高里菜)、物部深月(CV.沼倉愛美) [FLAC] | Juuou Mujin no Fafnir | Unlimited Fafnir ED</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1473851</guid>
-				<pubDate>Tue, 04 Jan 2022 23:34:25 -0000</pubDate>
+			<title>[KOTE] Final Fantasy VII Remake Intergrade Original Soundtrack [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1811523</guid>
+				<pubDate>Mon, 29 Apr 2024 03:59:53 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>250</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:92eb35b21d1504e2c7dad1d2d3a46586ea6a8f47</link>
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>6</nyaa:leechers>
+				<nyaa:downloads>693</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:9d3f590efa2001da9508130f852bf92607308d80</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>196.6 MiB</nyaa:size>
+			<nyaa:size>1.4 GiB</nyaa:size>
+			<nyaa:comments>1</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1811523">#1811523 | [KOTE] Final Fantasy VII Remake Intergrade Original Soundtrack [FLAC]</a> | 1.4 GiB | Audio - Lossless | 9d3f590efa2001da9508130f852bf92607308d80]]></description>
+		</item>
+		<item>
+			<title>Heaven Official&#39;s Blessing (天官赐福) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1811387</guid>
+				<pubDate>Sun, 28 Apr 2024 18:30:34 -0000</pubDate>
+
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
+				<nyaa:downloads>247</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:07ce2968d574dde187d0a7ff986f0f30c76bd437</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>351.2 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1473851">#1473851 | [UNBIASED] [2015.01.28] TVアニメ「銃皇無尽のファフニール(Juuou Mujin no Fafnir)」EDテーマ「Ray of bullet」／イリス・フレイア(CV.日高里菜)、物部深月(CV.沼倉愛美) [FLAC] | Juuou Mujin no Fafnir | Unlimited Fafnir ED</a> | 196.6 MiB | Audio - Lossless | 92EB35B21D1504E2C7DAD1D2D3A46586EA6A8F47]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1811387">#1811387 | Heaven Official&#39;s Blessing (天官赐福) OST [FLAC]</a> | 351.2 MiB | Audio - Lossless | 07ce2968d574dde187d0a7ff986f0f30c76bd437]]></description>
 		</item>
 		<item>
-			<title>[UNBIASED] [2015.01.14] TVアニメ「銃皇無尽のファフニール」OPテーマ「FLYING FAFNIR」／TRUSTRICK [FLAC] | Juuou Mujin no Fafnir | Unlimited Fafnir OP</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1473850</guid>
-				<pubDate>Tue, 04 Jan 2022 23:11:41 -0000</pubDate>
+			<title>Perfect World (完美世界) OST [FLAC]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1810954</guid>
+				<pubDate>Sun, 28 Apr 2024 01:19:07 -0000</pubDate>
 
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>285</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:3751d70537f8b7d49560d7d4243dce55826c7d64</link>
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>234</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:2c4ed89e2fa97ef883e889a1ac5dcf783121730e</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>150.7 MiB</nyaa:size>
+			<nyaa:size>328.2 MiB</nyaa:size>
+			<nyaa:comments>2</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1810954">#1810954 | Perfect World (完美世界) OST [FLAC]</a> | 328.2 MiB | Audio - Lossless | 2c4ed89e2fa97ef883e889a1ac5dcf783121730e]]></description>
+		</item>
+		<item>
+			<title>Eternal Filena &#39;Spirit of the Sea&#39; OST (1992){FLAC+SCAN}[TKCA-30696]</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1810783</guid>
+				<pubDate>Sat, 27 Apr 2024 17:27:03 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>254</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:ed7c20fda287768f39e0f709da0a56eb301c65bd</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>309.7 MiB</nyaa:size>
 			<nyaa:comments>0</nyaa:comments>
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1473850">#1473850 | [UNBIASED] [2015.01.14] TVアニメ「銃皇無尽のファフニール」OPテーマ「FLYING FAFNIR」／TRUSTRICK [FLAC] | Juuou Mujin no Fafnir | Unlimited Fafnir OP</a> | 150.7 MiB | Audio - Lossless | 3751D70537F8B7D49560D7D4243DCE55826C7D64]]></description>
-		</item>
-		<item>
-			<title>[UNBIASED] [2015.04.08] TV Animation Unlimited Fafnir Character Song Album -Girls of D- [FLAC] | TV Anime &#34;Juuou Mujin no Fafnir&#34; Character Song Album -&#34;D&#34; no Shoujotachi- | TVアニメ 『銃皇無尽のファフニール』 キャラクター・ソング・アルバム -&#34;D&#34;の少女たち-</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1473849</guid>
-				<pubDate>Tue, 04 Jan 2022 22:58:49 -0000</pubDate>
-
-				<nyaa:seeders>0</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>167</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:6f7aeda6cce915f9d396589a7bc9f3c91f16ea68</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>404.4 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1473849">#1473849 | [UNBIASED] [2015.04.08] TV Animation Unlimited Fafnir Character Song Album -Girls of D- [FLAC] | TV Anime &#34;Juuou Mujin no Fafnir&#34; Character Song Album -&#34;D&#34; no Shoujotachi- | TVアニメ 『銃皇無尽のファフニール』 キャラクター・ソング・アルバム -&#34;D&#34;の少女たち-</a> | 404.4 MiB | Audio - Lossless | 6F7AEDA6CCE915F9D396589A7BC9F3C91F16EA68]]></description>
+			<description><![CDATA[<a href="https://nyaa.si/view/1810783">#1810783 | Eternal Filena &#39;Spirit of the Sea&#39; OST (1992){FLAC+SCAN}[TKCA-30696]</a> | 309.7 MiB | Audio - Lossless | ed7c20fda287768f39e0f709da0a56eb301c65bd]]></description>
 		</item>
 	</channel>
 </rss>
