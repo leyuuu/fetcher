@@ -14,7 +14,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=SweetSub&c=0_0&f=0" -o 2 #SweetSub
           curl "https://nyaa.si/?page=rss&q=Breeze" -o 3 #Breeze
           curl "https://nyaa.si/?page=rss&q=ToonsHub" -o 4 #ToonsHub
-          curl "https://nyaa.si/?page=rss&q=%E6%98%9F%E7%A9%BA%E5%AD%97%E5%B9%95%E7%BB%84&c=0_0&f=0" -o 5 #星空字幕组
+          curl "https://nyaa.si/?page=rss&u=mistakey" -o 5 #北宇治字幕组
           curl "https://nyaa.si/?page=rss&q=LostYears&c=0_0&f=0" -o 6 #LostYears
           curl "https://nyaa.si/?page=rss&q=ASW&c=0_0&f=0" -o 7 #ASW
           curl "https://nyaa.si/?page=rss&q=Koi-Raws&c=0_0&f=0" -o 8 #Koi-Raws
