@@ -3,13 +3,30 @@
 		<title>Nyaa - &#34;Judas&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;Judas&#34;</description>
 		<item>
+			<title>[Judas] One Piece - SP43 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/1879065</guid>
+				<pubDate>Sun, 29 Sep 2024 16:16:21 -0000</pubDate>
+
+				<nyaa:seeders>0</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:39b4a2f60e4eedae2dfa7473ea173c67e63b7b0f</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>360.3 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1879065">#1879065 | [Judas] One Piece - SP43 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</a> | 360.3 MiB | Anime - English-translated | 39b4a2f60e4eedae2dfa7473ea173c67e63b7b0f]]></description>
+		</item>
+		<item>
 			<title>[Judas] Kami no Tou (Tower of God) - S02E13 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</title>
 				<guid isPermaLink="true">https://nyaa.si/view/1879037</guid>
 				<pubDate>Sun, 29 Sep 2024 15:22:42 -0000</pubDate>
 
-				<nyaa:seeders>161</nyaa:seeders>
-				<nyaa:leechers>25</nyaa:leechers>
-				<nyaa:downloads>253</nyaa:downloads>
+				<nyaa:seeders>173</nyaa:seeders>
+				<nyaa:leechers>19</nyaa:leechers>
+				<nyaa:downloads>351</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:fade3bf49cb165b86d48f1b39b6675c17144c551</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -24,9 +41,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878950</guid>
 				<pubDate>Sun, 29 Sep 2024 11:42:55 -0000</pubDate>
 
-				<nyaa:seeders>197</nyaa:seeders>
-				<nyaa:leechers>21</nyaa:leechers>
-				<nyaa:downloads>662</nyaa:downloads>
+				<nyaa:seeders>214</nyaa:seeders>
+				<nyaa:leechers>17</nyaa:leechers>
+				<nyaa:downloads>719</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0bd7a06e2422d373f483d349dbe3335c739c4b0e</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -41,9 +58,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878939</guid>
 				<pubDate>Sun, 29 Sep 2024 10:34:16 -0000</pubDate>
 
-				<nyaa:seeders>86</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>427</nyaa:downloads>
+				<nyaa:seeders>90</nyaa:seeders>
+				<nyaa:leechers>6</nyaa:leechers>
+				<nyaa:downloads>450</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a95fbc46ef898d5395791bd909be39d959fdc2d8</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -58,9 +75,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878748</guid>
 				<pubDate>Sat, 28 Sep 2024 20:15:03 -0000</pubDate>
 
-				<nyaa:seeders>47</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>345</nyaa:downloads>
+				<nyaa:seeders>42</nyaa:seeders>
+				<nyaa:leechers>6</nyaa:leechers>
+				<nyaa:downloads>346</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:128e2fb192414b5f23bd75439dfd7bbd743c387e</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -75,9 +92,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878714</guid>
 				<pubDate>Sat, 28 Sep 2024 19:15:51 -0000</pubDate>
 
-				<nyaa:seeders>79</nyaa:seeders>
-				<nyaa:leechers>25</nyaa:leechers>
-				<nyaa:downloads>425</nyaa:downloads>
+				<nyaa:seeders>84</nyaa:seeders>
+				<nyaa:leechers>24</nyaa:leechers>
+				<nyaa:downloads>433</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a6c44dd51970409cd15b438c0c03162fa04c0d72</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -92,9 +109,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878713</guid>
 				<pubDate>Sat, 28 Sep 2024 19:14:35 -0000</pubDate>
 
-				<nyaa:seeders>85</nyaa:seeders>
+				<nyaa:seeders>84</nyaa:seeders>
 				<nyaa:leechers>16</nyaa:leechers>
-				<nyaa:downloads>434</nyaa:downloads>
+				<nyaa:downloads>440</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0fac60bb69b62054d64501770bd3de3ba3d3f444</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -109,9 +126,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878712</guid>
 				<pubDate>Sat, 28 Sep 2024 19:13:31 -0000</pubDate>
 
-				<nyaa:seeders>64</nyaa:seeders>
+				<nyaa:seeders>67</nyaa:seeders>
 				<nyaa:leechers>19</nyaa:leechers>
-				<nyaa:downloads>374</nyaa:downloads>
+				<nyaa:downloads>377</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:48396061173481d70a41a1bc552c15921ff877a9</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -126,9 +143,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878711</guid>
 				<pubDate>Sat, 28 Sep 2024 19:12:56 -0000</pubDate>
 
-				<nyaa:seeders>70</nyaa:seeders>
-				<nyaa:leechers>28</nyaa:leechers>
-				<nyaa:downloads>355</nyaa:downloads>
+				<nyaa:seeders>69</nyaa:seeders>
+				<nyaa:leechers>24</nyaa:leechers>
+				<nyaa:downloads>360</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:71e29f6e4dcdcfe96a6f33ad18a8f31d25ba2ab2</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -143,9 +160,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878710</guid>
 				<pubDate>Sat, 28 Sep 2024 19:12:31 -0000</pubDate>
 
-				<nyaa:seeders>58</nyaa:seeders>
-				<nyaa:leechers>19</nyaa:leechers>
-				<nyaa:downloads>342</nyaa:downloads>
+				<nyaa:seeders>57</nyaa:seeders>
+				<nyaa:leechers>27</nyaa:leechers>
+				<nyaa:downloads>343</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6181a3efc7a00b4a9e1d702757857d1afd92e44d</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -160,9 +177,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878709</guid>
 				<pubDate>Sat, 28 Sep 2024 19:11:54 -0000</pubDate>
 
-				<nyaa:seeders>53</nyaa:seeders>
+				<nyaa:seeders>56</nyaa:seeders>
 				<nyaa:leechers>17</nyaa:leechers>
-				<nyaa:downloads>326</nyaa:downloads>
+				<nyaa:downloads>335</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:32bc592d112d234ef822eb399871927fb107dc47</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -177,9 +194,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878708</guid>
 				<pubDate>Sat, 28 Sep 2024 19:10:50 -0000</pubDate>
 
-				<nyaa:seeders>87</nyaa:seeders>
-				<nyaa:leechers>27</nyaa:leechers>
-				<nyaa:downloads>463</nyaa:downloads>
+				<nyaa:seeders>85</nyaa:seeders>
+				<nyaa:leechers>26</nyaa:leechers>
+				<nyaa:downloads>472</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0bb825f8f277a1721ba563972b4122167753067a</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -194,9 +211,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878707</guid>
 				<pubDate>Sat, 28 Sep 2024 19:07:59 -0000</pubDate>
 
-				<nyaa:seeders>48</nyaa:seeders>
-				<nyaa:leechers>20</nyaa:leechers>
-				<nyaa:downloads>278</nyaa:downloads>
+				<nyaa:seeders>51</nyaa:seeders>
+				<nyaa:leechers>22</nyaa:leechers>
+				<nyaa:downloads>285</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:25330e5d71afe08f9781d24124f0fa6107cf5f9f</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -211,9 +228,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878706</guid>
 				<pubDate>Sat, 28 Sep 2024 19:06:58 -0000</pubDate>
 
-				<nyaa:seeders>58</nyaa:seeders>
-				<nyaa:leechers>18</nyaa:leechers>
-				<nyaa:downloads>336</nyaa:downloads>
+				<nyaa:seeders>64</nyaa:seeders>
+				<nyaa:leechers>22</nyaa:leechers>
+				<nyaa:downloads>341</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:39958bf300b8da50832b282a1b137cf338c59d5b</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -228,9 +245,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878705</guid>
 				<pubDate>Sat, 28 Sep 2024 19:03:14 -0000</pubDate>
 
-				<nyaa:seeders>58</nyaa:seeders>
-				<nyaa:leechers>24</nyaa:leechers>
-				<nyaa:downloads>355</nyaa:downloads>
+				<nyaa:seeders>59</nyaa:seeders>
+				<nyaa:leechers>25</nyaa:leechers>
+				<nyaa:downloads>359</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:bbfdde681be1498a53707a07ba5cdadb50eb3397</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -246,8 +263,8 @@
 				<pubDate>Sat, 28 Sep 2024 18:41:50 -0000</pubDate>
 
 				<nyaa:seeders>51</nyaa:seeders>
-				<nyaa:leechers>7</nyaa:leechers>
-				<nyaa:downloads>417</nyaa:downloads>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>418</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4f11f0a281c8ab3616c5760d1d02221731822b87</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -262,9 +279,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878700</guid>
 				<pubDate>Sat, 28 Sep 2024 18:33:12 -0000</pubDate>
 
-				<nyaa:seeders>385</nyaa:seeders>
-				<nyaa:leechers>12</nyaa:leechers>
-				<nyaa:downloads>1948</nyaa:downloads>
+				<nyaa:seeders>398</nyaa:seeders>
+				<nyaa:leechers>20</nyaa:leechers>
+				<nyaa:downloads>1980</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a367927130839459e9f9ed492e567ae6d9750a7a</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -279,9 +296,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878685</guid>
 				<pubDate>Sat, 28 Sep 2024 17:20:12 -0000</pubDate>
 
-				<nyaa:seeders>78</nyaa:seeders>
-				<nyaa:leechers>14</nyaa:leechers>
-				<nyaa:downloads>639</nyaa:downloads>
+				<nyaa:seeders>81</nyaa:seeders>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>649</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:cc7945b2f8000b3e8ac952627bb9e623e582ca2a</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -296,9 +313,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878352</guid>
 				<pubDate>Fri, 27 Sep 2024 20:57:12 -0000</pubDate>
 
-				<nyaa:seeders>57</nyaa:seeders>
+				<nyaa:seeders>54</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>440</nyaa:downloads>
+				<nyaa:downloads>442</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9b60a51bc4e1a1fd9d9cc332dccda9caf1de1497</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -313,9 +330,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878328</guid>
 				<pubDate>Fri, 27 Sep 2024 19:57:12 -0000</pubDate>
 
-				<nyaa:seeders>100</nyaa:seeders>
-				<nyaa:leechers>9</nyaa:leechers>
-				<nyaa:downloads>937</nyaa:downloads>
+				<nyaa:seeders>98</nyaa:seeders>
+				<nyaa:leechers>7</nyaa:leechers>
+				<nyaa:downloads>939</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:fa99ea5f5c2e1815f03659648a1caddd795c18ff</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -330,9 +347,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1878242</guid>
 				<pubDate>Fri, 27 Sep 2024 17:04:59 -0000</pubDate>
 
-				<nyaa:seeders>248</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>2164</nyaa:downloads>
+				<nyaa:seeders>253</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
+				<nyaa:downloads>2174</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0d9ddd413171728af9ebde7f1756652ca3700dde</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -347,9 +364,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877988</guid>
 				<pubDate>Thu, 26 Sep 2024 19:26:17 -0000</pubDate>
 
-				<nyaa:seeders>158</nyaa:seeders>
-				<nyaa:leechers>10</nyaa:leechers>
-				<nyaa:downloads>2024</nyaa:downloads>
+				<nyaa:seeders>153</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
+				<nyaa:downloads>2029</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:21693db384501396898e3d74a4b226cd22b2592b</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -364,9 +381,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877985</guid>
 				<pubDate>Thu, 26 Sep 2024 19:18:09 -0000</pubDate>
 
-				<nyaa:seeders>59</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>884</nyaa:downloads>
+				<nyaa:seeders>54</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
+				<nyaa:downloads>887</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:40a8162b2f3077d28f5a13d39c074e9eef3babdb</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -381,8 +398,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877843</guid>
 				<pubDate>Thu, 26 Sep 2024 12:38:26 -0000</pubDate>
 
-				<nyaa:seeders>27</nyaa:seeders>
-				<nyaa:leechers>7</nyaa:leechers>
+				<nyaa:seeders>30</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
 				<nyaa:downloads>341</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:00126f2ff4f3bce35248b4b29e18f5da67735c3a</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -398,9 +415,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877842</guid>
 				<pubDate>Thu, 26 Sep 2024 12:37:23 -0000</pubDate>
 
-				<nyaa:seeders>125</nyaa:seeders>
+				<nyaa:seeders>128</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>1264</nyaa:downloads>
+				<nyaa:downloads>1271</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:603219850aa22c88633b00e25a0ccdc92f0a1fd8</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -432,9 +449,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877357</guid>
 				<pubDate>Tue, 24 Sep 2024 16:21:46 -0000</pubDate>
 
-				<nyaa:seeders>77</nyaa:seeders>
+				<nyaa:seeders>76</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1297</nyaa:downloads>
+				<nyaa:downloads>1299</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3655da261778d809ea8816e9477eee9b9ffbbe71</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -449,9 +466,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877160</guid>
 				<pubDate>Mon, 23 Sep 2024 20:13:38 -0000</pubDate>
 
-				<nyaa:seeders>99</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>1195</nyaa:downloads>
+				<nyaa:seeders>96</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>1198</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5157123fda3da999f4348bbaedf9415ebeb87803</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -466,8 +483,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877140</guid>
 				<pubDate>Mon, 23 Sep 2024 18:57:08 -0000</pubDate>
 
-				<nyaa:seeders>89</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>90</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1712</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6fbbb05d0242cf5c738b4f12d06c2359bb7a7a66</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -483,8 +500,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1877098</guid>
 				<pubDate>Mon, 23 Sep 2024 17:13:30 -0000</pubDate>
 
-				<nyaa:seeders>39</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>38</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>470</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b8127f5656bae37efc12b1c0eb2af6dd9dd5f2f9</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -500,9 +517,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876748</guid>
 				<pubDate>Sun, 22 Sep 2024 15:19:21 -0000</pubDate>
 
-				<nyaa:seeders>174</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>3099</nyaa:downloads>
+				<nyaa:seeders>183</nyaa:seeders>
+				<nyaa:leechers>4</nyaa:leechers>
+				<nyaa:downloads>3101</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f92de71f8d78e8226ad249cd6644fb30f39666e1</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -517,8 +534,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876747</guid>
 				<pubDate>Sun, 22 Sep 2024 15:17:48 -0000</pubDate>
 
-				<nyaa:seeders>112</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:seeders>115</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1721</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:20864b50ad98bc08611a9ed8ef003f083bb8b717</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -534,9 +551,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876657</guid>
 				<pubDate>Sun, 22 Sep 2024 11:26:20 -0000</pubDate>
 
-				<nyaa:seeders>130</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>2151</nyaa:downloads>
+				<nyaa:seeders>121</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>2154</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4b6e02f3c2e5616882caa87c202bfd83256586f6</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -551,9 +568,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876624</guid>
 				<pubDate>Sun, 22 Sep 2024 10:10:03 -0000</pubDate>
 
-				<nyaa:seeders>50</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>1084</nyaa:downloads>
+				<nyaa:seeders>54</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>1085</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b5e52e7c3d0f24294d4ecd626ed9c4546b3ab8a1</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -568,7 +585,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876323</guid>
 				<pubDate>Sat, 21 Sep 2024 17:51:36 -0000</pubDate>
 
-				<nyaa:seeders>28</nyaa:seeders>
+				<nyaa:seeders>27</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>433</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:96f368460de9fc370ad0042d45b7abd2d23c63ae</link>
@@ -585,9 +602,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876293</guid>
 				<pubDate>Sat, 21 Sep 2024 16:36:11 -0000</pubDate>
 
-				<nyaa:seeders>47</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>942</nyaa:downloads>
+				<nyaa:seeders>48</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>946</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:86d204e021635e136c050d9159204c8c14bf7122</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -602,8 +619,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876156</guid>
 				<pubDate>Sat, 21 Sep 2024 13:27:22 -0000</pubDate>
 
-				<nyaa:seeders>37</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>39</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>641</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:49920a2257c9666225adbbf8d06081e98b58323e</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -619,9 +636,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1876108</guid>
 				<pubDate>Sat, 21 Sep 2024 11:30:17 -0000</pubDate>
 
-				<nyaa:seeders>273</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>4158</nyaa:downloads>
+				<nyaa:seeders>278</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>4161</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8532ed0e3504eaff092545ff2fc5791bcc335973</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -636,7 +653,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875923</guid>
 				<pubDate>Fri, 20 Sep 2024 20:37:18 -0000</pubDate>
 
-				<nyaa:seeders>32</nyaa:seeders>
+				<nyaa:seeders>35</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>543</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:40326f57be861694c79b69866860cbea3ac47d1c</link>
@@ -653,7 +670,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875912</guid>
 				<pubDate>Fri, 20 Sep 2024 19:45:54 -0000</pubDate>
 
-				<nyaa:seeders>66</nyaa:seeders>
+				<nyaa:seeders>65</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1315</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5d005b00452f9adf609789f2e3d0fe0d95662174</link>
@@ -670,9 +687,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875834</guid>
 				<pubDate>Fri, 20 Sep 2024 16:49:26 -0000</pubDate>
 
-				<nyaa:seeders>183</nyaa:seeders>
+				<nyaa:seeders>175</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>3135</nyaa:downloads>
+				<nyaa:downloads>3136</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4656cbf3ba6f7553780a472996f4965b19052916</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -687,8 +704,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875793</guid>
 				<pubDate>Fri, 20 Sep 2024 14:43:35 -0000</pubDate>
 
-				<nyaa:seeders>36</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>31</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>691</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ed473ec7173662ead0d0eeab33309e5087018140</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -704,9 +721,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875583</guid>
 				<pubDate>Thu, 19 Sep 2024 21:07:16 -0000</pubDate>
 
-				<nyaa:seeders>128</nyaa:seeders>
+				<nyaa:seeders>125</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>2740</nyaa:downloads>
+				<nyaa:downloads>2743</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8b5b2052a090a500c276cc5b74a48d34f53669c5</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -721,9 +738,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875572</guid>
 				<pubDate>Thu, 19 Sep 2024 19:44:59 -0000</pubDate>
 
-				<nyaa:seeders>45</nyaa:seeders>
+				<nyaa:seeders>44</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>726</nyaa:downloads>
+				<nyaa:downloads>727</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b8a206e1fd790084214e0e3557cf8906e4968ba4</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -738,8 +755,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875556</guid>
 				<pubDate>Thu, 19 Sep 2024 19:02:53 -0000</pubDate>
 
-				<nyaa:seeders>36</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>35</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>735</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9d47ac9932b41ff725180f458dde2b3cc882e802</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -755,9 +772,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875496</guid>
 				<pubDate>Thu, 19 Sep 2024 17:50:11 -0000</pubDate>
 
-				<nyaa:seeders>38</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1160</nyaa:downloads>
+				<nyaa:seeders>40</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>1161</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:792e348fe4825accdb6b983f38b4be8eeb0fd528</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -773,8 +790,8 @@
 				<pubDate>Thu, 19 Sep 2024 16:24:28 -0000</pubDate>
 
 				<nyaa:seeders>40</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>785</nyaa:downloads>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>786</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b84c6c2e96bffdafb08c3e37344ee9cf72151682</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -789,7 +806,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875345</guid>
 				<pubDate>Thu, 19 Sep 2024 13:21:56 -0000</pubDate>
 
-				<nyaa:seeders>58</nyaa:seeders>
+				<nyaa:seeders>55</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>913</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:01d90dcba6eefd8a643b0929e546e5cbda28b05f</link>
@@ -806,9 +823,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875188</guid>
 				<pubDate>Wed, 18 Sep 2024 17:54:18 -0000</pubDate>
 
-				<nyaa:seeders>134</nyaa:seeders>
+				<nyaa:seeders>130</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>2327</nyaa:downloads>
+				<nyaa:downloads>2330</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0601df791d21a517db88ce5453c046ebc8e36634</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -823,9 +840,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1875140</guid>
 				<pubDate>Wed, 18 Sep 2024 16:06:53 -0000</pubDate>
 
-				<nyaa:seeders>131</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>2463</nyaa:downloads>
+				<nyaa:seeders>125</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>2464</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:70b69cc1b6108d23f242c4484b40f00eddc8d52c</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -857,8 +874,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874714</guid>
 				<pubDate>Tue, 17 Sep 2024 16:05:43 -0000</pubDate>
 
-				<nyaa:seeders>71</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>67</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1352</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:545bd613d5e16f2125a14c91a9fd2bb017a387dd</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -874,7 +891,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874297</guid>
 				<pubDate>Mon, 16 Sep 2024 20:22:42 -0000</pubDate>
 
-				<nyaa:seeders>92</nyaa:seeders>
+				<nyaa:seeders>86</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1408</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:05f1514d99064ec1a89b6141a2b9d5fbe43d729b</link>
@@ -891,8 +908,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874274</guid>
 				<pubDate>Mon, 16 Sep 2024 19:37:07 -0000</pubDate>
 
-				<nyaa:seeders>12</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>15</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>477</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f7080faf3d09ad176915454a17195e1d55358015</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -908,9 +925,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874272</guid>
 				<pubDate>Mon, 16 Sep 2024 19:35:22 -0000</pubDate>
 
-				<nyaa:seeders>78</nyaa:seeders>
+				<nyaa:seeders>75</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>1541</nyaa:downloads>
+				<nyaa:downloads>1544</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:75922f764f1bedc419f7933a31a471ea2d66630e</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -925,9 +942,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874271</guid>
 				<pubDate>Mon, 16 Sep 2024 19:32:15 -0000</pubDate>
 
-				<nyaa:seeders>28</nyaa:seeders>
+				<nyaa:seeders>30</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>862</nyaa:downloads>
+				<nyaa:downloads>864</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:7e49794dd0c67396de7d1a115e733fb4fb25b934</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -943,8 +960,8 @@
 				<pubDate>Mon, 16 Sep 2024 19:23:06 -0000</pubDate>
 
 				<nyaa:seeders>80</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>1551</nyaa:downloads>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>1552</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b7b4b6cadddae635da1e84ec4227874a0cc6cf8f</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -959,9 +976,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874266</guid>
 				<pubDate>Mon, 16 Sep 2024 19:21:00 -0000</pubDate>
 
-				<nyaa:seeders>150</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>3424</nyaa:downloads>
+				<nyaa:seeders>152</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>3425</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f32f4c33317e7e49534ed6aff185ae11164383a4</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -976,7 +993,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874260</guid>
 				<pubDate>Mon, 16 Sep 2024 18:57:21 -0000</pubDate>
 
-				<nyaa:seeders>71</nyaa:seeders>
+				<nyaa:seeders>69</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1756</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f71966341d29d02e46ef1fd6f4ba752ed9f3a918</link>
@@ -993,9 +1010,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1874226</guid>
 				<pubDate>Mon, 16 Sep 2024 17:23:54 -0000</pubDate>
 
-				<nyaa:seeders>40</nyaa:seeders>
+				<nyaa:seeders>42</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>562</nyaa:downloads>
+				<nyaa:downloads>563</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9ca4563b8ac040507db9d592bfd4c5e1d8e8a78d</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -1011,7 +1028,7 @@
 				<pubDate>Sat, 14 Sep 2024 18:34:16 -0000</pubDate>
 
 				<nyaa:seeders>18</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>437</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ccdeb6f5f41fb2463c53359c92139d1d283260e8</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1027,9 +1044,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1873370</guid>
 				<pubDate>Sat, 14 Sep 2024 16:57:02 -0000</pubDate>
 
-				<nyaa:seeders>50</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1163</nyaa:downloads>
+				<nyaa:seeders>49</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>1165</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c38ba61de60ad0586bf094b5b1ec4e27d8312f34</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -1061,7 +1078,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1873271</guid>
 				<pubDate>Sat, 14 Sep 2024 15:10:37 -0000</pubDate>
 
-				<nyaa:seeders>24</nyaa:seeders>
+				<nyaa:seeders>25</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>721</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ff63f897b7e3929f32d714ee584a86fcbba10f94</link>
@@ -1078,8 +1095,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1873209</guid>
 				<pubDate>Sat, 14 Sep 2024 13:41:45 -0000</pubDate>
 
-				<nyaa:seeders>36</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>35</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>756</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:44dfe05c9752e2d75048ecb508d5b0d13eb280dc</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1095,8 +1112,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1873169</guid>
 				<pubDate>Sat, 14 Sep 2024 11:47:22 -0000</pubDate>
 
-				<nyaa:seeders>208</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>214</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>4594</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3bb987e9ceef939fa121bbed7fce7d192ad8bfeb</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1112,7 +1129,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872978</guid>
 				<pubDate>Fri, 13 Sep 2024 21:49:01 -0000</pubDate>
 
-				<nyaa:seeders>28</nyaa:seeders>
+				<nyaa:seeders>26</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>526</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:7fe4bfe8abebd826febd3a2dedf40735617de29e</link>
@@ -1129,8 +1146,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872969</guid>
 				<pubDate>Fri, 13 Sep 2024 20:38:05 -0000</pubDate>
 
-				<nyaa:seeders>45</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>41</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1220</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f294e4c758bf7302948e5f9a29f11828c456a8e2</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1146,9 +1163,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872896</guid>
 				<pubDate>Fri, 13 Sep 2024 17:34:55 -0000</pubDate>
 
-				<nyaa:seeders>148</nyaa:seeders>
+				<nyaa:seeders>141</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>3418</nyaa:downloads>
+				<nyaa:downloads>3419</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:668e795ccc18112552191e1f7714996c1f330fc3</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -1163,7 +1180,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872858</guid>
 				<pubDate>Fri, 13 Sep 2024 16:26:59 -0000</pubDate>
 
-				<nyaa:seeders>19</nyaa:seeders>
+				<nyaa:seeders>15</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>696</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3bf4d2e4f3e209ffe0e9c927079c21d564a6e57c</link>
@@ -1180,8 +1197,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872776</guid>
 				<pubDate>Fri, 13 Sep 2024 14:55:08 -0000</pubDate>
 
-				<nyaa:seeders>30</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>26</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>822</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:724bd4ca7074502070f7686839b17450c64f83b4</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1197,8 +1214,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872503</guid>
 				<pubDate>Thu, 12 Sep 2024 20:32:02 -0000</pubDate>
 
-				<nyaa:seeders>123</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>119</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>3019</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:43526ff996260506c22856eeee66f35fb55bda12</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1214,7 +1231,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872479</guid>
 				<pubDate>Thu, 12 Sep 2024 19:30:44 -0000</pubDate>
 
-				<nyaa:seeders>15</nyaa:seeders>
+				<nyaa:seeders>12</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>716</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:be4197b42f5c5062726c832bed0912e3bb4cad72</link>
@@ -1231,9 +1248,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872477</guid>
 				<pubDate>Thu, 12 Sep 2024 19:29:52 -0000</pubDate>
 
-				<nyaa:seeders>88</nyaa:seeders>
+				<nyaa:seeders>95</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>1951</nyaa:downloads>
+				<nyaa:downloads>1953</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3c50763c539f0d9e851a1a031051a0a90f6ac0e1</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -1248,7 +1265,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1872476</guid>
 				<pubDate>Thu, 12 Sep 2024 19:28:34 -0000</pubDate>
 
-				<nyaa:seeders>82</nyaa:seeders>
+				<nyaa:seeders>81</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1852</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:0dc3ec73b3eedf66f8c50b03b7577f53423e469d</link>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>Yes</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1872476">#1872476 | [Judas] Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san (Alya Sometimes Hides Her Feelings in Russian) - S01E11 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</a> | 203.0 MiB | Anime - English-translated | 0dc3ec73b3eedf66f8c50b03b7577f53423e469d]]></description>
-		</item>
-		<item>
-			<title>[Judas] Maou Gun Saikyou no Majutsushi wa Ningen Datta (The Strongest Magician in the Demon Lord&#39;s Army was a Human) - S01E12 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1872473</guid>
-				<pubDate>Thu, 12 Sep 2024 19:24:49 -0000</pubDate>
-
-				<nyaa:seeders>26</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>749</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:db0ddd6f867c270628fb8b0ac378763831a7dcb9</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>199.4 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>Yes</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1872473">#1872473 | [Judas] Maou Gun Saikyou no Majutsushi wa Ningen Datta (The Strongest Magician in the Demon Lord&#39;s Army was a Human) - S01E12 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</a> | 199.4 MiB | Anime - English-translated | db0ddd6f867c270628fb8b0ac378763831a7dcb9]]></description>
 		</item>
 	</channel>
 </rss>
