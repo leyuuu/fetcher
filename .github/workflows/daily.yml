@@ -30,9 +30,10 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=Soundtrack%7COST" -o 18 #Soundtrack
           curl "https://nyaa.si/?page=rss&u=dumbboy58" -o 19 #eng audio
           curl "https://nyaa.si/?page=rss&q=Multi+dub" -o 20 #Find some dub
+          curl "https://nyaa.si/?page=rss&q=Sav1or" -o 21 # AV1 Batch
 
           # 把磁链作为默认下载链接
-          for i in {1..20}; do sed -i "/link/d; s/nyaa:infoHash/link/g; s/<link>/<link>magnet:?xt=urn:btih:/g" $i; done
+          for i in {1..21}; do sed -i "/link/d; s/nyaa:infoHash/link/g; s/<link>/<link>magnet:?xt=urn:btih:/g" $i; done
           git config --local user.email "action@github.com" && git config --local user.name "GitHub Action"
           git add .
           git commit -m "update xml" -a
