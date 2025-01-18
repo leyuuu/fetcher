@@ -1,0 +1,45 @@
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0/20 12-16 * * *"
+jobs:
+  updateXml:
+    name: daliy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - run: |
+          set -x
+          curl "https://nyaa.si/?page=rss&q=%E5%96%B5%E8%90%8C%E5%A5%B6%E8%8C%B6%E5%B1%8B+1080+%E7%AE%80%E6%97%A5&c=0_0&f=0" -o 1 #喵萌奶茶屋 1080
+          curl "https://nyaa.si/?page=rss&q=SweetSub&c=0_0&f=0" -o 2 #SweetSub
+          curl "https://nyaa.si/?page=rss&q=Breeze" -o 3 #Breeze
+          curl "https://nyaa.si/?page=rss&q=ToonsHub" -o 4 #ToonsHub
+          curl "https://nyaa.si/?page=rss&u=mistakey" -o 5 #北宇治字幕组
+          curl "https://nyaa.si/?page=rss&q=LostYears&c=0_0&f=0" -o 6 #LostYears
+          curl "https://nyaa.si/?page=rss&q=ASW&c=0_0&f=0" -o 7 #ASW
+          curl "https://nyaa.si/?page=rss&q=Koi-Raws&c=0_0&f=0" -o 8 #Koi-Raws
+          curl "https://nyaa.si/?page=rss&q=TSDM" -o 9 # TSDM
+          curl "https://nyaa.si/?page=rss&u=theoadam" -o 10 # TV bangumi
+          curl "https://nyaa.si/?page=rss&u=Raze876" -o 11 # Raze876_120FPS
+          curl "https://nyaa.si/?page=rss&q=Trix" -o 12 # Trix AV1 encode
+          curl "https://nyaa.si/?page=rss&q=Judas" -o 13 # Judas
+          curl "https://nyaa.si/?page=rss&u=AgPa1t" -o 14 # AgPa1t Audio book
+          curl "https://nyaa.si/?page=rss&q=New-raws" -o 15 # New-raws
+          curl "https://nyaa.si/?page=rss&q=NanakoRaws" -o 16 #NanakoRaws
+          curl "https://nyaa.si/?page=rss&q=VARYG" -o 17 #VARYG
+          curl "https://nyaa.si/?page=rss&q=Soundtrack%7COST" -o 18 #Soundtrack
+          curl "https://nyaa.si/?page=rss&u=dumbboy58" -o 19 #eng audio
+          curl "https://nyaa.si/?page=rss&q=Multi+dub" -o 20 #Find some dub
+          curl "https://nyaa.si/?page=rss&q=Sav1or" -o 21 # AV1 Batch
+          curl "https://nyaa.si/?page=rss&q=Ironclad" -o 22 # AV1 Batch2
+
+          # 把磁链作为默认下载链接
+          for i in {1..22}; do sed -i "/link/d; s/nyaa:infoHash/link/g; s/<link>/<link>magnet:?xt=urn:btih:/g" $i; done
+          git config --local user.email "action@github.com" && git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "update xml" -a
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
