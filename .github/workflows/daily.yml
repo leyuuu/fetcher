@@ -37,7 +37,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&u=skroby" -o 23 # Ger dubs
           
           # 把磁链作为默认下载链接
-          for i in {1..22}; do sed -i "/link/d; s/nyaa:infoHash/link/g; s/<link>/<link>magnet:?xt=urn:btih:/g" $i; done
+          for i in {1..23}; do sed -i "/link/d; s/nyaa:infoHash/link/g; s/<link>/<link>magnet:?xt=urn:btih:/g" $i; done
           git config --local user.email "action@github.com" && git config --local user.name "GitHub Action"
           git add .
           git commit -m "update xml" -a
