@@ -21,7 +21,7 @@ jobs:
           curl "https://nyaa.si/?page=rss&q=ASW&c=0_0&f=0" -o 7 #ASW
           curl "https://nyaa.si/?page=rss&q=Koi-Raws&c=0_0&f=0" -o 8 #Koi-Raws
           curl "https://nyaa.si/?page=rss&q=TSDM" -o 9 # TSDM
-          curl "https://nyaa.si/?page=rss&u=theoadam" -o 10 # TV bangumi
+          curl "https://nyaa.si/?page=rss&q=Multi-Audio&c=0_0&f=0&u=varyg1001" -o 10 # varyg1001 Multi-Audio
           curl "https://nyaa.si/?page=rss&u=Raze876" -o 11 # Raze876_120FPS
           curl "https://nyaa.si/?page=rss&q=Trix" -o 12 # Trix AV1 encode
           curl "https://nyaa.si/?page=rss&q=Judas" -o 13 # Judas
