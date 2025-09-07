@@ -3,12 +3,29 @@
 		<title>Nyaa - Home - Torrent File RSS</title>
 		<description>RSS Feed for Home</description>
 		<item>
+			<title>[Raze] Gachiakuta - 09 x265 10bit 1080p 143.8561fps.mkv</title>
+				<guid isPermaLink="true">https://nyaa.si/view/2016718</guid>
+				<pubDate>Sun, 07 Sep 2025 16:23:37 -0000</pubDate>
+
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>10</nyaa:leechers>
+				<nyaa:downloads>4</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:8716e5e605c1f53e6275bd5db4ec761d5a4ffd3f</link>
+			<nyaa:categoryId>1_2</nyaa:categoryId>
+			<nyaa:category>Anime - English-translated</nyaa:category>
+			<nyaa:size>1004.1 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>Yes</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/2016718">#2016718 | [Raze] Gachiakuta - 09 x265 10bit 1080p 143.8561fps.mkv</a> | 1004.1 MiB | Anime - English-translated | 8716E5E605C1F53E6275BD5DB4EC761D5A4FFD3F]]></description>
+		</item>
+		<item>
 			<title>[Raze] To Be Hero X - 23 x265 10bit 1080p 143.8561fps.mkv</title>
 				<guid isPermaLink="true">https://nyaa.si/view/2016341</guid>
 				<pubDate>Sun, 07 Sep 2025 01:46:33 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>66</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5d0ce5996514516a1f22cddb9b52d167f8c56493</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -24,9 +41,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2016171</guid>
 				<pubDate>Sat, 06 Sep 2025 18:43:31 -0000</pubDate>
 
-				<nyaa:seeders>19</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>114</nyaa:downloads>
+				<nyaa:seeders>20</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>115</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8fc5bddff56664dfd202e591ca580de9edc1aaff</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -41,9 +58,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2016090</guid>
 				<pubDate>Sat, 06 Sep 2025 16:29:48 -0000</pubDate>
 
-				<nyaa:seeders>134</nyaa:seeders>
-				<nyaa:leechers>8</nyaa:leechers>
-				<nyaa:downloads>544</nyaa:downloads>
+				<nyaa:seeders>135</nyaa:seeders>
+				<nyaa:leechers>6</nyaa:leechers>
+				<nyaa:downloads>548</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c5dfd9d2c2ef7e32e791926d518f5d558060b6b6</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -58,9 +75,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2016089</guid>
 				<pubDate>Sat, 06 Sep 2025 16:29:46 -0000</pubDate>
 
-				<nyaa:seeders>16</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>66</nyaa:downloads>
+				<nyaa:seeders>20</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>67</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8192fac017d433e6e9f95c2640e71291af27c7d5</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -75,9 +92,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2015669</guid>
 				<pubDate>Fri, 05 Sep 2025 21:25:56 -0000</pubDate>
 
-				<nyaa:seeders>145</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>1560</nyaa:downloads>
+				<nyaa:seeders>149</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
+				<nyaa:downloads>1568</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:54d2a3574adcb7eaa7b830b462069f77617fe26f</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -92,7 +109,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2015245</guid>
 				<pubDate>Fri, 05 Sep 2025 00:15:55 -0000</pubDate>
 
-				<nyaa:seeders>57</nyaa:seeders>
+				<nyaa:seeders>58</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>444</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:372ed04e5ae02baa207d9693a54162c3830dacc0</link>
@@ -109,7 +126,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2014632</guid>
 				<pubDate>Wed, 03 Sep 2025 16:27:03 -0000</pubDate>
 
-				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:seeders>12</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>68</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8b78c694adfe1e4fdc23a4f8f0f6b5a4db4f909f</link>
@@ -127,7 +144,7 @@
 				<pubDate>Mon, 01 Sep 2025 17:49:00 -0000</pubDate>
 
 				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>45</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a0a9cc42f0ae360cfb71490a629712e4878c4db8</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -143,9 +160,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2013993</guid>
 				<pubDate>Mon, 01 Sep 2025 16:58:10 -0000</pubDate>
 
-				<nyaa:seeders>94</nyaa:seeders>
+				<nyaa:seeders>88</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>967</nyaa:downloads>
+				<nyaa:downloads>968</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3c7626d016a234cefc6c14aa89efe49ea88c78af</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -160,7 +177,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2013635</guid>
 				<pubDate>Sun, 31 Aug 2025 16:17:51 -0000</pubDate>
 
-				<nyaa:seeders>14</nyaa:seeders>
+				<nyaa:seeders>13</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>137</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f59af05a670837e0f6028394acc85120bbedb213</link>
@@ -228,9 +245,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2012762</guid>
 				<pubDate>Fri, 29 Aug 2025 21:19:12 -0000</pubDate>
 
-				<nyaa:seeders>119</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>2443</nyaa:downloads>
+				<nyaa:seeders>115</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>2444</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9a9431dc6f5993cf02d3a0f8f62c6bf7e636f7fb</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -279,7 +296,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2011237</guid>
 				<pubDate>Mon, 25 Aug 2025 19:14:14 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>48</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5c3866307fe650e986591b487cc7578b1d31e159</link>
@@ -296,9 +313,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2011236</guid>
 				<pubDate>Mon, 25 Aug 2025 19:14:13 -0000</pubDate>
 
-				<nyaa:seeders>26</nyaa:seeders>
+				<nyaa:seeders>25</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>550</nyaa:downloads>
+				<nyaa:downloads>551</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6e8c1cbd4bce0f800d9880584fe82ba75fc88e3d</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -313,7 +330,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2010748</guid>
 				<pubDate>Sun, 24 Aug 2025 16:42:25 -0000</pubDate>
 
-				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>214</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:56ccfd1304009ebf0f03b8841b0f36d18e8f1306</link>
@@ -364,7 +381,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2010146</guid>
 				<pubDate>Sat, 23 Aug 2025 17:23:11 -0000</pubDate>
 
-				<nyaa:seeders>26</nyaa:seeders>
+				<nyaa:seeders>25</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>532</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8ddae22ff36a9de440801c16cbe5e7f69f22dabe</link>
@@ -398,8 +415,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2009677</guid>
 				<pubDate>Fri, 22 Aug 2025 22:21:29 -0000</pubDate>
 
-				<nyaa:seeders>104</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>101</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>3086</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:a70611331accc5a2396b34c1f715bdfab9b9326f</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -415,7 +432,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2009251</guid>
 				<pubDate>Thu, 21 Aug 2025 20:07:12 -0000</pubDate>
 
-				<nyaa:seeders>32</nyaa:seeders>
+				<nyaa:seeders>31</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>581</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:7923eb2e55b711d321db8326c715b3141e86fd9d</link>
@@ -467,8 +484,8 @@
 				<pubDate>Mon, 18 Aug 2025 18:33:27 -0000</pubDate>
 
 				<nyaa:seeders>30</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>678</nyaa:downloads>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>679</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6fd00e5707ba5ad923badedae1d6ec63b7d822c4</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -517,7 +534,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2007058</guid>
 				<pubDate>Sat, 16 Aug 2025 19:03:13 -0000</pubDate>
 
-				<nyaa:seeders>21</nyaa:seeders>
+				<nyaa:seeders>20</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>367</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5da91b5e1feeefe485924637c6fcbd03dae130f7</link>
@@ -534,7 +551,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2006934</guid>
 				<pubDate>Sat, 16 Aug 2025 16:06:51 -0000</pubDate>
 
-				<nyaa:seeders>20</nyaa:seeders>
+				<nyaa:seeders>19</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>524</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ad4ad338ddccf540b75ada1796c81600c5001f46</link>
@@ -551,7 +568,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2006708</guid>
 				<pubDate>Sat, 16 Aug 2025 05:44:02 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>153</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:10dbeecd6ba516f05e5414af13a5b669210eb650</link>
@@ -568,8 +585,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2006617</guid>
 				<pubDate>Fri, 15 Aug 2025 19:14:35 -0000</pubDate>
 
-				<nyaa:seeders>101</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>99</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>3957</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:583e01e58a2ae5bab339e3f7ff94791745c3c898</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -602,8 +619,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2005792</guid>
 				<pubDate>Wed, 13 Aug 2025 16:21:14 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>112</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:bbb19f473b59920cf2c8ac5f1e718558074ffc11</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -638,7 +655,7 @@
 
 				<nyaa:seeders>27</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>640</nyaa:downloads>
+				<nyaa:downloads>641</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8040f9cc812d31a1acfa4334043c2677843187c0</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -653,7 +670,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2004778</guid>
 				<pubDate>Sun, 10 Aug 2025 17:32:25 -0000</pubDate>
 
-				<nyaa:seeders>16</nyaa:seeders>
+				<nyaa:seeders>17</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>512</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6f9ba885435435fc37a9e475def7813b5ebec0e9</link>
@@ -687,7 +704,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2004340</guid>
 				<pubDate>Sun, 10 Aug 2025 00:42:39 -0000</pubDate>
 
-				<nyaa:seeders>19</nyaa:seeders>
+				<nyaa:seeders>16</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>336</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:288be6fed4a60a02954c921dad33f6cf44ecffa0</link>
@@ -704,7 +721,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2004123</guid>
 				<pubDate>Sat, 09 Aug 2025 16:06:33 -0000</pubDate>
 
-				<nyaa:seeders>16</nyaa:seeders>
+				<nyaa:seeders>17</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>414</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e16cfa2041280dca34f9cb86619145e320eb5aa6</link>
@@ -738,9 +755,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2003809</guid>
 				<pubDate>Fri, 08 Aug 2025 23:30:16 -0000</pubDate>
 
-				<nyaa:seeders>111</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>4915</nyaa:downloads>
+				<nyaa:seeders>107</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>4917</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9e6f84a903de97e848f445c09a390f4aa996900c</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -755,7 +772,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2003399</guid>
 				<pubDate>Thu, 07 Aug 2025 17:55:37 -0000</pubDate>
 
-				<nyaa:seeders>32</nyaa:seeders>
+				<nyaa:seeders>31</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>770</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:348b2fb94e7903f34eb6029823e4a780d5e71d51</link>
@@ -806,9 +823,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2002236</guid>
 				<pubDate>Mon, 04 Aug 2025 18:05:34 -0000</pubDate>
 
-				<nyaa:seeders>28</nyaa:seeders>
+				<nyaa:seeders>27</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>766</nyaa:downloads>
+				<nyaa:downloads>767</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:24f832af0aefbbf80265500b6036403d20eafadc</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -823,7 +840,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2001826</guid>
 				<pubDate>Sun, 03 Aug 2025 17:26:34 -0000</pubDate>
 
-				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:seeders>13</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>401</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:cdef98f785e6aa62c436c02a8d24e0abbce32ee6</link>
@@ -908,9 +925,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2000885</guid>
 				<pubDate>Fri, 01 Aug 2025 22:28:49 -0000</pubDate>
 
-				<nyaa:seeders>114</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>4507</nyaa:downloads>
+				<nyaa:seeders>105</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>4508</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:56341cb93c07d26f77738664b6e613fa6dd61606</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -959,7 +976,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1999865</guid>
 				<pubDate>Wed, 30 Jul 2025 14:25:32 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:seeders>4</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>65</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:6d28535c85cbb1fefda812334889b539643cd66f</link>
@@ -976,7 +993,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1999337</guid>
 				<pubDate>Mon, 28 Jul 2025 18:09:42 -0000</pubDate>
 
-				<nyaa:seeders>18</nyaa:seeders>
+				<nyaa:seeders>19</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>618</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ad4bb16f8e0928fa96fe932c2ce80199ca7a5572</link>
@@ -1095,9 +1112,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1997909</guid>
 				<pubDate>Fri, 25 Jul 2025 19:26:41 -0000</pubDate>
 
-				<nyaa:seeders>122</nyaa:seeders>
+				<nyaa:seeders>119</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>6260</nyaa:downloads>
+				<nyaa:downloads>6261</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9b20a8545ba1643c47f4d4d91c9c84de8c174712</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -1112,7 +1129,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1997839</guid>
 				<pubDate>Fri, 25 Jul 2025 16:31:01 -0000</pubDate>
 
-				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>107</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:1e8cf0f6099d057f20f420dc1061b2eeca3cce42</link>
@@ -1146,7 +1163,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/1997024</guid>
 				<pubDate>Wed, 23 Jul 2025 14:56:37 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>83</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:aa30d50bc7b035cb3993c2d70f16bb582331cf6a</link>
@@ -1181,7 +1198,7 @@
 				<pubDate>Mon, 21 Jul 2025 18:27:46 -0000</pubDate>
 
 				<nyaa:seeders>16</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>689</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8a2db905d107bbf51444e6eb6ea1d9a66d1bff54</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>No</nyaa:trusted>
 			<nyaa:remake>Yes</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/1995077">#1995077 | [Raze] Lord of Mysteries - 05 x265 10bit 1080p 150fps.mkv</a> | 946.1 MiB | Anime - English-translated | 6DE686E9E98F1A6E8C7B61343B595AC635E6E637]]></description>
-		</item>
-		<item>
-			<title>[Raze] Nukitashi The Animation - 01 (Uncensored) x265 10bit 1080p 143.8561fps.mkv</title>
-				<guid isPermaLink="true">https://nyaa.si/view/1994978</guid>
-				<pubDate>Fri, 18 Jul 2025 21:33:16 -0000</pubDate>
-
-				<nyaa:seeders>156</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>8806</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:82db55890dbe01690f2359fabcc996b021e51125</link>
-			<nyaa:categoryId>1_2</nyaa:categoryId>
-			<nyaa:category>Anime - English-translated</nyaa:category>
-			<nyaa:size>708.1 MiB</nyaa:size>
-			<nyaa:comments>9</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>Yes</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/1994978">#1994978 | [Raze] Nukitashi The Animation - 01 (Uncensored) x265 10bit 1080p 143.8561fps.mkv</a> | 708.1 MiB | Anime - English-translated | 82DB55890DBE01690F2359FABCC996B021E51125]]></description>
 		</item>
 	</channel>
 </rss>
