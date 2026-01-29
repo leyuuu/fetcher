@@ -3,13 +3,30 @@
 		<title>Nyaa - &#34;Soundtrack|OST&#34; - Torrent File RSS</title>
 		<description>RSS Feed for &#34;Soundtrack|OST&#34;</description>
 		<item>
+			<title>[PMR] Old Tales (Goddess of Victory NIKKE Original Soundtrack)</title>
+				<guid isPermaLink="true">https://nyaa.si/view/2070230</guid>
+				<pubDate>Thu, 29 Jan 2026 07:59:48 -0000</pubDate>
+
+				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:leechers>16</nyaa:leechers>
+				<nyaa:downloads>50</nyaa:downloads>
+				<link>magnet:?xt=urn:btih:1cb00bd2a3d7bad0d0a9357208add5bb9e902dab</link>
+			<nyaa:categoryId>2_1</nyaa:categoryId>
+			<nyaa:category>Audio - Lossless</nyaa:category>
+			<nyaa:size>1.0 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/2070230">#2070230 | [PMR] Old Tales (Goddess of Victory NIKKE Original Soundtrack)</a> | 1.0 GiB | Audio - Lossless | 1cb00bd2a3d7bad0d0a9357208add5bb9e902dab]]></description>
+		</item>
+		<item>
 			<title>[PMR] Unbreakable Sphere (Goddess of Victory NIKKE Original Soundtrack)</title>
 				<guid isPermaLink="true">https://nyaa.si/view/2069845</guid>
 				<pubDate>Wed, 28 Jan 2026 08:48:29 -0000</pubDate>
 
-				<nyaa:seeders>14</nyaa:seeders>
-				<nyaa:leechers>5</nyaa:leechers>
-				<nyaa:downloads>94</nyaa:downloads>
+				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:leechers>7</nyaa:leechers>
+				<nyaa:downloads>162</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:00daa651536124592c13aa91fbc5bf1cbcb40743</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -24,9 +41,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2066565</guid>
 				<pubDate>Tue, 20 Jan 2026 01:36:47 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>325</nyaa:downloads>
+				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>330</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b187e564c9ee2bd680db617895187c46788232c5</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -41,9 +58,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2066564</guid>
 				<pubDate>Tue, 20 Jan 2026 01:35:47 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>5</nyaa:leechers>
-				<nyaa:downloads>323</nyaa:downloads>
+				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>330</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:231f75d674b52d4df0f8031def067bbb00c8ec4c</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -58,9 +75,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2065964</guid>
 				<pubDate>Sun, 18 Jan 2026 14:39:48 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:seeders>4</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>198</nyaa:downloads>
+				<nyaa:downloads>200</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:583050ec7ac6c7727f7d9f144ebbf9d546caaeec</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -76,8 +93,8 @@
 				<pubDate>Sat, 17 Jan 2026 12:24:54 -0000</pubDate>
 
 				<nyaa:seeders>11</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>364</nyaa:downloads>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>367</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5e0cafb72c38f0be182c64cfce9af198a9e23ff5</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -92,9 +109,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2064934</guid>
 				<pubDate>Fri, 16 Jan 2026 15:42:45 -0000</pubDate>
 
-				<nyaa:seeders>24</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>516</nyaa:downloads>
+				<nyaa:seeders>23</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>521</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:508d3c3f5ac0667882e44c691deacd1b82505abb</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -109,9 +126,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2063641</guid>
 				<pubDate>Tue, 13 Jan 2026 13:59:02 -0000</pubDate>
 
-				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>293</nyaa:downloads>
+				<nyaa:downloads>295</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3f0c502ec58016b9817bf28b552047906b567e60</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -126,9 +143,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2063637</guid>
 				<pubDate>Tue, 13 Jan 2026 13:50:24 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
-				<nyaa:downloads>279</nyaa:downloads>
+				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>281</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:44d68bc6471a8a60922c899132b001bdaa58561f</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -144,8 +161,8 @@
 				<pubDate>Tue, 13 Jan 2026 13:45:14 -0000</pubDate>
 
 				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>244</nyaa:downloads>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>245</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:697a240083d9cdd1f7a38bc61f4ec2f77e9368da</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -160,9 +177,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2063563</guid>
 				<pubDate>Tue, 13 Jan 2026 08:46:16 -0000</pubDate>
 
-				<nyaa:seeders>12</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>307</nyaa:downloads>
+				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>310</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:53c5d6374fd27be6836c1afb0c1dee9488e1d38e</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -177,9 +194,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2061902</guid>
 				<pubDate>Thu, 08 Jan 2026 20:03:29 -0000</pubDate>
 
-				<nyaa:seeders>15</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>865</nyaa:downloads>
+				<nyaa:seeders>14</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:downloads>869</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:62ab6373217e2d6fb9ae99eca25ba4db8d390be5</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -194,9 +211,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2061756</guid>
 				<pubDate>Thu, 08 Jan 2026 15:56:59 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>212</nyaa:downloads>
+				<nyaa:downloads>213</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:70d3a0d2442901bd535c44aeea9acde59639c511</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -211,7 +228,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2061569</guid>
 				<pubDate>Thu, 08 Jan 2026 08:52:45 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:seeders>4</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>167</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ef9e466f85398d9341a7f68533b36559610a452a</link>
@@ -228,9 +245,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2060668</guid>
 				<pubDate>Mon, 05 Jan 2026 14:30:26 -0000</pubDate>
 
-				<nyaa:seeders>10</nyaa:seeders>
-				<nyaa:leechers>6</nyaa:leechers>
-				<nyaa:downloads>393</nyaa:downloads>
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>400</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:598324031459dd9d516695d755213e27f2822a0a</link>
 			<nyaa:categoryId>6_2</nyaa:categoryId>
 			<nyaa:category>Software - Games</nyaa:category>
@@ -247,7 +264,7 @@
 
 				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>302</nyaa:downloads>
+				<nyaa:downloads>303</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:aa67f5aa2cc468228ea5df0f67c2f0ffd75364d6</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -262,9 +279,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2060042</guid>
 				<pubDate>Fri, 02 Jan 2026 18:01:40 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>214</nyaa:downloads>
+				<nyaa:downloads>216</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:89d61d2256aa11e74bf9cc0e68613c8d24fdd08d</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -279,9 +296,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2060039</guid>
 				<pubDate>Fri, 02 Jan 2026 17:10:05 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>192</nyaa:downloads>
+				<nyaa:downloads>193</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:16e0b9bc56714e196d35604cfd1821bcd9db6e92</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -296,9 +313,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059943</guid>
 				<pubDate>Fri, 02 Jan 2026 14:15:23 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
-				<nyaa:downloads>383</nyaa:downloads>
+				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
+				<nyaa:downloads>385</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:cebbac2bb71bd970f19219a2277f3d58043a0f83</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -313,7 +330,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059942</guid>
 				<pubDate>Fri, 02 Jan 2026 14:15:10 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>132</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:976fdce4aff04d3399b9488742e7eec0dc122da2</link>
@@ -330,8 +347,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059941</guid>
 				<pubDate>Fri, 02 Jan 2026 14:15:00 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>4</nyaa:leechers>
 				<nyaa:downloads>142</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:2ee6f0638b7a7c0f532cf178e859ea10c636e74a</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -364,8 +381,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059938</guid>
 				<pubDate>Fri, 02 Jan 2026 14:14:24 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>8</nyaa:leechers>
+				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:leechers>9</nyaa:leechers>
 				<nyaa:downloads>139</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:695f3a5ccf347888b805b2a6fa0ddd1f4d81c0d6</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -382,8 +399,8 @@
 				<pubDate>Fri, 02 Jan 2026 14:12:50 -0000</pubDate>
 
 				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>197</nyaa:downloads>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>199</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ebb5fbb9e2958e4ccc37149e23934fa7d727f6b0</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -398,8 +415,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059936</guid>
 				<pubDate>Fri, 02 Jan 2026 14:12:34 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>141</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:7f38da6fe271f86c2ad66f4c27182f14a8a066e0</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -415,8 +432,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059935</guid>
 				<pubDate>Fri, 02 Jan 2026 14:10:52 -0000</pubDate>
 
-				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>80</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:dfc892e35bb5add2759bf101435444e898a137af</link>
 			<nyaa:categoryId>2_2</nyaa:categoryId>
@@ -432,7 +449,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059934</guid>
 				<pubDate>Fri, 02 Jan 2026 14:10:41 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>5</nyaa:leechers>
 				<nyaa:downloads>165</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:da887ddd115bf3d7a991ae84e038ada41c60aac4</link>
@@ -449,8 +466,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059933</guid>
 				<pubDate>Fri, 02 Jan 2026 14:10:31 -0000</pubDate>
 
-				<nyaa:seeders>1</nyaa:seeders>
-				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>4</nyaa:leechers>
 				<nyaa:downloads>130</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e15ebc62cbd8c59ee3c72f4dbd55a9eb385afbe9</link>
 			<nyaa:categoryId>2_2</nyaa:categoryId>
@@ -466,8 +483,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059932</guid>
 				<pubDate>Fri, 02 Jan 2026 14:10:18 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>4</nyaa:leechers>
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>5</nyaa:leechers>
 				<nyaa:downloads>145</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:969c3f780ef1768e25ba7b9a0239a0356b0a7072</link>
 			<nyaa:categoryId>2_2</nyaa:categoryId>
@@ -483,7 +500,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059922</guid>
 				<pubDate>Fri, 02 Jan 2026 13:52:56 -0000</pubDate>
 
-				<nyaa:seeders>6</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>181</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:d55f7343a53f92f4125540ab4915803c8e216404</link>
@@ -500,9 +517,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2059891</guid>
 				<pubDate>Fri, 02 Jan 2026 11:54:25 -0000</pubDate>
 
-				<nyaa:seeders>13</nyaa:seeders>
+				<nyaa:seeders>11</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>535</nyaa:downloads>
+				<nyaa:downloads>537</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:caae8fd21eb60d6ad5e4909b9f71897acd3b7055</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -518,8 +535,8 @@
 				<pubDate>Tue, 30 Dec 2025 09:19:35 -0000</pubDate>
 
 				<nyaa:seeders>7</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>661</nyaa:downloads>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>663</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:7ba61a93fef20d5b77cdee550dcdbda6a6ea6ef3</link>
 			<nyaa:categoryId>2_2</nyaa:categoryId>
 			<nyaa:category>Audio - Lossy</nyaa:category>
@@ -534,9 +551,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2058935</guid>
 				<pubDate>Mon, 29 Dec 2025 13:19:50 -0000</pubDate>
 
-				<nyaa:seeders>26</nyaa:seeders>
+				<nyaa:seeders>28</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>728</nyaa:downloads>
+				<nyaa:downloads>731</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:56efae0c3871ff782c969f7739a733f6cca6efb4</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -552,7 +569,7 @@
 				<pubDate>Thu, 25 Dec 2025 15:06:52 -0000</pubDate>
 
 				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>225</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ac2bf60a0cc9db50053a905c6a91659a4c82ddf3</link>
 			<nyaa:categoryId>6_2</nyaa:categoryId>
@@ -585,7 +602,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2049254</guid>
 				<pubDate>Tue, 02 Dec 2025 09:23:22 -0000</pubDate>
 
-				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>575</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ccaa91fa8227190a3da80c2a70a03afff2dedb11</link>
@@ -604,7 +621,7 @@
 
 				<nyaa:seeders>7</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>556</nyaa:downloads>
+				<nyaa:downloads>557</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:37f739f10936986d8b025d8e6e31caab8a0b4905</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -619,9 +636,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2046942</guid>
 				<pubDate>Wed, 26 Nov 2025 09:56:07 -0000</pubDate>
 
-				<nyaa:seeders>7</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>471</nyaa:downloads>
+				<nyaa:downloads>472</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:754cbfb287075b0d42adff45b73fb587a38e3188</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -637,8 +654,8 @@
 				<pubDate>Tue, 25 Nov 2025 13:27:01 -0000</pubDate>
 
 				<nyaa:seeders>26</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>882</nyaa:downloads>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>884</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:e2be494f7cd3aa551b58182cfa906713c2771395</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -653,8 +670,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2046556</guid>
 				<pubDate>Mon, 24 Nov 2025 23:14:31 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:seeders>2</nyaa:seeders>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>200</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:56866122bda63415c54d1aec241b40780fdbc7ee</link>
 			<nyaa:categoryId>2_2</nyaa:categoryId>
@@ -670,9 +687,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2045438</guid>
 				<pubDate>Sat, 22 Nov 2025 09:41:21 -0000</pubDate>
 
-				<nyaa:seeders>12</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
-				<nyaa:downloads>696</nyaa:downloads>
+				<nyaa:seeders>17</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>700</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8902fae560becb7e542b68205979b403f5dabf10</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -687,7 +704,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2044200</guid>
 				<pubDate>Tue, 18 Nov 2025 08:38:30 -0000</pubDate>
 
-				<nyaa:seeders>13</nyaa:seeders>
+				<nyaa:seeders>10</nyaa:seeders>
 				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>348</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:5ea2aed6cea7df379c7cb8f245deb64d35d9c7c2</link>
@@ -704,7 +721,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2044199</guid>
 				<pubDate>Tue, 18 Nov 2025 08:22:39 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
+				<nyaa:seeders>2</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>144</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c200280aac21983c75037122606af387b4c9e729</link>
@@ -756,7 +773,7 @@
 				<pubDate>Sat, 08 Nov 2025 07:14:49 -0000</pubDate>
 
 				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>147</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:460a2d64374068a06d5bb07fd3c84612f426b4e5</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -772,7 +789,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2040111</guid>
 				<pubDate>Sat, 08 Nov 2025 07:14:13 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:seeders>2</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>149</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:daadcba9abd706406a1e5724cf75ca69670e19cf</link>
@@ -789,7 +806,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2040109</guid>
 				<pubDate>Sat, 08 Nov 2025 07:12:58 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:seeders>2</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>158</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:bc0bcde792e9dd038c8c73fcf078f4f1241fa70a</link>
@@ -874,7 +891,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2040103</guid>
 				<pubDate>Sat, 08 Nov 2025 07:05:20 -0000</pubDate>
 
-				<nyaa:seeders>10</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>173</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f5ab15bfb22915770a14eca1a15e1d1dc375f83a</link>
@@ -908,9 +925,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2039173</guid>
 				<pubDate>Tue, 04 Nov 2025 22:44:53 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>182</nyaa:downloads>
+				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:leechers>3</nyaa:leechers>
+				<nyaa:downloads>183</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:3432654733aab15b256780477e1675cd1462781c</link>
 			<nyaa:categoryId>1_2</nyaa:categoryId>
 			<nyaa:category>Anime - English-translated</nyaa:category>
@@ -925,9 +942,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2037218</guid>
 				<pubDate>Fri, 31 Oct 2025 10:59:47 -0000</pubDate>
 
-				<nyaa:seeders>13</nyaa:seeders>
+				<nyaa:seeders>16</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>614</nyaa:downloads>
+				<nyaa:downloads>615</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c2bce843ab5b19cc1ef9944327cada8e757418aa</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -942,7 +959,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2034704</guid>
 				<pubDate>Fri, 24 Oct 2025 12:06:20 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>3</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>584</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:1a37d99cd13f0d605ed5ccc189d150286be9bccb</link>
@@ -961,7 +978,7 @@
 
 				<nyaa:seeders>2</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>304</nyaa:downloads>
+				<nyaa:downloads>305</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:4c953840a516db3ab5f7b20a59ed49ad0ab553b2</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1010,9 +1027,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2033760</guid>
 				<pubDate>Tue, 21 Oct 2025 10:50:18 -0000</pubDate>
 
-				<nyaa:seeders>4</nyaa:seeders>
+				<nyaa:seeders>6</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>293</nyaa:downloads>
+				<nyaa:downloads>294</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:469e415582009bf24778e7dffb845ace0aaa56d5</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1027,9 +1044,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2031577</guid>
 				<pubDate>Wed, 15 Oct 2025 16:52:58 -0000</pubDate>
 
-				<nyaa:seeders>26</nyaa:seeders>
-				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>1339</nyaa:downloads>
+				<nyaa:seeders>27</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>1341</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:b941b2fd459e4cf6bec10432093f2f174bf5eeca</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1044,9 +1061,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2030258</guid>
 				<pubDate>Sun, 12 Oct 2025 05:21:39 -0000</pubDate>
 
-				<nyaa:seeders>19</nyaa:seeders>
+				<nyaa:seeders>17</nyaa:seeders>
 				<nyaa:leechers>2</nyaa:leechers>
-				<nyaa:downloads>880</nyaa:downloads>
+				<nyaa:downloads>881</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:51a5ddbdc16b9135aed6a342b1845a3688213044</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1063,7 +1080,7 @@
 
 				<nyaa:seeders>7</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>393</nyaa:downloads>
+				<nyaa:downloads>394</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:8dbbbb5e3fa206ec0ae693097b6105bc47b5107d</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1078,7 +1095,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2025778</guid>
 				<pubDate>Wed, 01 Oct 2025 12:31:04 -0000</pubDate>
 
-				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:seeders>4</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>594</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:2a6ac41456af6438ecf65f5b3f165709c9bb6501</link>
@@ -1096,7 +1113,7 @@
 				<pubDate>Wed, 01 Oct 2025 10:41:02 -0000</pubDate>
 
 				<nyaa:seeders>2</nyaa:seeders>
-				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>180</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:140ac9ff053f41c74c8e41aca2c0ec0b98cfb582</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -1112,9 +1129,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2025664</guid>
 				<pubDate>Tue, 30 Sep 2025 21:52:17 -0000</pubDate>
 
-				<nyaa:seeders>17</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>554</nyaa:downloads>
+				<nyaa:seeders>22</nyaa:seeders>
+				<nyaa:leechers>1</nyaa:leechers>
+				<nyaa:downloads>556</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:469debff3a8821e03003043e099a1bb52d42190c</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1129,7 +1146,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2025307</guid>
 				<pubDate>Mon, 29 Sep 2025 12:27:32 -0000</pubDate>
 
-				<nyaa:seeders>9</nyaa:seeders>
+				<nyaa:seeders>10</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>820</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:1937f06ec3186d468c4822f1ffa36ebfb964dc4b</link>
@@ -1146,7 +1163,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2025306</guid>
 				<pubDate>Mon, 29 Sep 2025 12:25:30 -0000</pubDate>
 
-				<nyaa:seeders>11</nyaa:seeders>
+				<nyaa:seeders>12</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>1132</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:9fd0b4efaec9ca94c9b844fca3ec37a57845e7be</link>
@@ -1163,7 +1180,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2024723</guid>
 				<pubDate>Sat, 27 Sep 2025 22:23:38 -0000</pubDate>
 
-				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:seeders>2</nyaa:seeders>
 				<nyaa:leechers>3</nyaa:leechers>
 				<nyaa:downloads>554</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:ac1611eda5c72be78daef18b71345c14cf963042</link>
@@ -1180,7 +1197,7 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2024433</guid>
 				<pubDate>Sat, 27 Sep 2025 10:43:05 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:seeders>5</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
 				<nyaa:downloads>450</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:c2cd933cdd5dc8c11203456fbc77b25e556b1a20</link>
@@ -1197,9 +1214,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2024428</guid>
 				<pubDate>Sat, 27 Sep 2025 10:27:23 -0000</pubDate>
 
-				<nyaa:seeders>8</nyaa:seeders>
+				<nyaa:seeders>9</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>549</nyaa:downloads>
+				<nyaa:downloads>550</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:81e561867ed5e140b9dd609e363e60645e85ce13</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1214,9 +1231,9 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2023736</guid>
 				<pubDate>Wed, 24 Sep 2025 22:07:06 -0000</pubDate>
 
-				<nyaa:seeders>33</nyaa:seeders>
+				<nyaa:seeders>32</nyaa:seeders>
 				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1770</nyaa:downloads>
+				<nyaa:downloads>1772</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:dc05ed76d38d8905a0c68a217150ac47b6a18a1a</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
 			<nyaa:category>Audio - Lossless</nyaa:category>
@@ -1231,8 +1248,8 @@
 				<guid isPermaLink="true">https://nyaa.si/view/2023267</guid>
 				<pubDate>Tue, 23 Sep 2025 14:58:11 -0000</pubDate>
 
-				<nyaa:seeders>5</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:seeders>3</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
 				<nyaa:downloads>418</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:61eef2f7b1dfa8be2029ce4fdff39df4fedabad5</link>
 			<nyaa:categoryId>6_2</nyaa:categoryId>
@@ -1249,7 +1266,7 @@
 				<pubDate>Tue, 23 Sep 2025 12:19:41 -0000</pubDate>
 
 				<nyaa:seeders>14</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
+				<nyaa:leechers>1</nyaa:leechers>
 				<nyaa:downloads>1513</nyaa:downloads>
 				<link>magnet:?xt=urn:btih:f975405b3b293f4e10c70892a571d15970cb06ee</link>
 			<nyaa:categoryId>2_1</nyaa:categoryId>
@@ -1259,23 +1276,6 @@
 			<nyaa:trusted>Yes</nyaa:trusted>
 			<nyaa:remake>No</nyaa:remake>
 			<description><![CDATA[<a href="https://nyaa.si/view/2023161">#2023161 | [JMAX] [2025.09.24] TVアニメ「青春ブタ野郎はサンタクロースの夢を見ない」Original Soundtrack [FLAC]</a> | 515.9 MiB | Audio - Lossless | f975405b3b293f4e10c70892a571d15970cb06ee]]></description>
-		</item>
-		<item>
-			<title>[TSDM自購][250827]TVアニメ『机动战士高达GQuuuuuuX』OST原声集／音楽: 照井順政、蓮尾理之[320K]</title>
-				<guid isPermaLink="true">https://nyaa.si/view/2022440</guid>
-				<pubDate>Sun, 21 Sep 2025 12:56:29 -0000</pubDate>
-
-				<nyaa:seeders>6</nyaa:seeders>
-				<nyaa:leechers>0</nyaa:leechers>
-				<nyaa:downloads>1038</nyaa:downloads>
-				<link>magnet:?xt=urn:btih:1a8a11573251dff9e9ddddd9809922507e9a1d4b</link>
-			<nyaa:categoryId>2_1</nyaa:categoryId>
-			<nyaa:category>Audio - Lossless</nyaa:category>
-			<nyaa:size>316.7 MiB</nyaa:size>
-			<nyaa:comments>0</nyaa:comments>
-			<nyaa:trusted>No</nyaa:trusted>
-			<nyaa:remake>No</nyaa:remake>
-			<description><![CDATA[<a href="https://nyaa.si/view/2022440">#2022440 | [TSDM自購][250827]TVアニメ『机动战士高达GQuuuuuuX』OST原声集／音楽: 照井順政、蓮尾理之[320K]</a> | 316.7 MiB | Audio - Lossless | 1a8a11573251dff9e9ddddd9809922507e9a1d4b]]></description>
 		</item>
 	</channel>
 </rss>
